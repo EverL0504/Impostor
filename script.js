@@ -251,3 +251,4 @@ function initBackgroundCanvas() {
       .catch(err => console.error('Error al registrar el Service Worker:', err));
   });
 }
+}
