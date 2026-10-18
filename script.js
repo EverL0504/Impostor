@@ -245,11 +245,13 @@ function initBackgroundCanvas() {
   }
   dibujar();
 }
-// Registro del Service Worker (fuera de cualquier función)
+
+// ════════════════ SERVICE WORKER ════════════════
+// Fuera de cualquier función, al final del archivo.
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
     navigator.serviceWorker.register('./sw.js')
-      .then(reg => console.log('SW registrado:', reg.scope))
-      .catch(err => console.error('Error SW:', err));
+      .then(reg => console.log('Service Worker registrado:', reg.scope))
+      .catch(err => console.error('Error al registrar el Service Worker:', err));
   });
 }
