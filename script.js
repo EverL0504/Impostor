@@ -244,11 +244,12 @@ function initBackgroundCanvas() {
     if (!reduce) requestAnimationFrame(dibujar);
   }
   dibujar();
-  if ('serviceWorker' in navigator) {
+}
+// Registro del Service Worker (fuera de cualquier función)
+if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
     navigator.serviceWorker.register('./sw.js')
-      .then(reg => console.log('Service Worker registrado con éxito:', reg.scope))
-      .catch(err => console.error('Error al registrar el Service Worker:', err));
+      .then(reg => console.log('SW registrado:', reg.scope))
+      .catch(err => console.error('Error SW:', err));
   });
-}
 }
