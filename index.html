@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <title>El Impostor</title>
+  
+  <!-- Fuentes Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Fondo animado ciberpunk -->
+  <canvas id="bg-canvas"></canvas>
+  <div id="scanlines"></div>
+
+  <div id="app">
+
+    <!-- PANTALLA 1: CONFIGURACIÓN -->
+    <section id="screen-config" class="screen active">
+      <div class="screen-inner">
+        <div class="logo">
+          <span class="logo-eye">👁️</span>
+          <div class="logo-title">IMPOSTOR</div>
+          <div class="logo-sub">Juego de deducción y engaño</div>
+        </div>
+
+        <div class="card">
+          <div class="field-block">
+            <div class="f-label">Jugadores</div>
+            <div class="stepper">
+              <button class="step-btn" onclick="adj('p', -1)">−</button>
+              <div class="step-sep"></div>
+              <div class="step-val" id="vp">4</div>
+              <div class="step-sep"></div>
+              <button class="step-btn" onclick="adj('p', 1)">+</button>
+            </div>
+          </div>
+
+          <div class="field-block">
+            <div class="f-label">Impostores</div>
+            <div class="stepper">
+              <button class="step-btn" onclick="adj('i', -1)">−</button>
+              <div class="step-sep"></div>
+              <div class="step-val" id="vi">1</div>
+              <div class="step-sep"></div>
+              <button class="step-btn" onclick="adj('i', 1)">+</button>
+            </div>
+          </div>
+
+          <div class="field-block" style="margin-bottom:0">
+            <div class="f-label">Categoría</div>
+            <div class="cat-row">
+              <button class="cat-btn sel" onclick="setCat(this, 'animales')">
+                <span class="emoji">🐾</span>
+                <span class="cat-name">Animales</span>
+              </button>
+              <button class="cat-btn" onclick="setCat(this, 'futbolistas')">
+                <span class="emoji">⚽</span>
+                <span class="cat-name">Fútbol</span>
+              </button>
+              <button class="cat-btn" onclick="setCat(this, 'paises')">
+                <span class="emoji">🌍</span>
+                <span class="cat-name">Países</span>
+              </button>
+              <button class="cat-btn" onclick="setCat(this, 'peliculas')">
+                <span class="emoji">🎬</span>
+                <span class="cat-name">Películas</span>
+              </button>
+              <button class="cat-btn" onclick="setCat(this, 'videojuegos')">
+                <span class="emoji">🎮</span>
+                <span class="cat-name">Juegos</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <button class="btn btn-primary" onclick="startGame()">
+          <span>▶</span> Comenzar
+        </button>
+      </div>
+    </section>
+
+    <!-- PANTALLA 2: TURNO DE JUGADOR -->
+    <section id="screen-turn" class="screen">
+      <div class="screen-inner">
+        <div class="round-badge">
+          <span class="rbadge-dot"></span>
+          <span id="badge-cat">ANIMALES</span>
+        </div>
+
+        <div class="card" style="padding:20px">
+          <div class="prog-wrap">
+            <div class="prog-bar" id="pbar" style="width:0%"></div>
+          </div>
+          <div class="prog-txt" id="ptxt">1 / 4</div>
+
+          <div class="turn-label">Jugador</div>
+          <div class="turn-num" id="tnum">1</div>
+          <div class="turn-instruction" id="tinstr">Toma el dispositivo sin que los demás vean</div>
+
+          <button class="btn btn-reveal" onclick="showReveal()">
+            🔍 &nbsp;Revelar palabra
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- PANTALLA 3: REVELAR PALABRA -->
+    <section id="screen-reveal" class="screen">
+      <div class="screen-inner">
+        <div class="word-card" id="wcard">
+          <div class="wc-eyebrow">
+            <div class="sep"></div>
+            <span id="wc-label">Tu palabra secreta</span>
+            <div class="sep"></div>
+          </div>
+          
+          <div class="wc-word" id="wc-text">—</div>
+          <div id="wc-hint" class="wc-hint" style="display:none">Pista: —</div>
+          <br>
+          <div id="wc-tag" class="wc-tag">🐾 Categoría</div>
+        </div>
+
+        <button class="btn btn-ack" onclick="ackWord()">
+          ✓ &nbsp;Entendido, memoricé mi rol
+        </button>
+      </div>
+    </section>
+
+    <!-- PANTALLA 4: FIN DE REVELACIÓN -->
+    <section id="screen-done" class="screen">
+      <div class="screen-inner">
+        <span class="done-icon">🕵️‍♂️</span>
+        <div class="done-title">¡Todos conocen su rol!</div>
+        <div class="done-sub">Debatan, hagan preguntas y descubran quién es el impostor.</div>
+        <div class="starter" id="starter"></div>
+
+        <div class="stats-grid" id="done-stats">
+          <div class="stat-chip">
+            <span class="stat-v" id="st-p">4</span>
+            <span class="stat-k">Jugadores</span>
+          </div>
+          <div class="stat-chip">
+            <span class="stat-v red" id="st-i">1</span>
+            <span class="stat-k">Impostores</span>
+          </div>
+          <div class="stat-chip">
+            <span class="stat-v" id="st-c">🐾</span>
+            <span class="stat-k">Categoría</span>
+          </div>
+        </div>
+
+        <button class="btn btn-round" onclick="nextRound()">
+          🔄 &nbsp;Jugar otra ronda
+        </button>
+        <button class="btn btn-ghost" onclick="goHome()">
+          ✕ &nbsp;Configuración
+        </button>
+      </div>
+    </section>
+
+  </div>
+
+  <div id="toast">Notificación</div>
+
+  <script src="script.js"></script>
+</body>
+</html>

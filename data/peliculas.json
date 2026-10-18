@@ -1,0 +1,752 @@
+[
+  {
+    "palabra": "Titanic",
+    "pistas": [
+      "Transcurre en un barco enorme",
+      "Una pareja de clases sociales distintas se enamora",
+      "Choca contra un bloque de hielo",
+      "Se estrenó en 1997",
+      "Un collar azul es muy importante",
+      "Su canción principal es de una cantante canadiense",
+      "Una puerta flotante salva a uno pero no a otro",
+      "Dirigida por James Cameron",
+      "Mezcla un hecho histórico con una historia ficticia",
+      "Una anciana narra la historia con un colgante en la mano"
+    ]
+  },
+  {
+    "palabra": "Avatar",
+    "pistas": [
+      "Sucede en un planeta llamado Pandora",
+      "Seres azules altos viven en armonía con la naturaleza",
+      "Un humano controla un cuerpo híbrido",
+      "Fue la película más taquillera de la historia",
+      "Su director es el mismo de un famoso barco",
+      "Usó tecnología 3D de forma innovadora",
+      "Hay una conexión con árboles y animales",
+      "Soldados quieren un mineral valioso",
+      "Tiene secuelas ambientadas en el mar",
+      "Su secuela se llama El camino del agua"
+    ]
+  },
+  {
+    "palabra": "Star Wars",
+    "pistas": [
+      "Una galaxia muy lejana",
+      "Caballeros que usan espadas de luz",
+      "Un villano de armadura negra y respiración rara",
+      "Un droide dorado y otro pequeño",
+      "Una princesa lidera una rebelión",
+      "La fuerza tiene un lado oscuro",
+      "George Lucas la creó",
+      "Una estrella de la muerte destruye un planeta",
+      "Una frase famosa dice \"yo soy tu padre\"",
+      "Un contrabandista y un copiloto peludo pilotan el Halcón Milenario"
+    ]
+  },
+  {
+    "palabra": "El Padrino",
+    "pistas": [
+      "Trata de una familia de la mafia",
+      "Un hombre recibe una oferta que no puede rechazar",
+      "Basada en una novela de Mario Puzo",
+      "Marlon Brando interpreta al jefe",
+      "Un joven hijo termina heredando el poder",
+      "Una cabeza de caballo aparece en una cama",
+      "Inicia con una boda",
+      "Francis Ford Coppola la dirigió",
+      "Es una saga de tres partes",
+      "Una naranja anuncia peligro en varias escenas"
+    ]
+  },
+  {
+    "palabra": "Matrix",
+    "pistas": [
+      "Una píldora roja o azul",
+      "Un hacker descubre que vive en una simulación",
+      "Las balas parecen detenerse en el aire",
+      "Un líder encapuchado ofrece la verdad",
+      "Un agente de traje verde persigue al héroe",
+      "No hay cuchara",
+      "Un elegido salvará la humanidad",
+      "Las hermanas Wachowski la dirigieron",
+      "Las lluvias de código verde son icónicas",
+      "Un traje de cuero negro y gafas oscuras es icónico"
+    ]
+  },
+  {
+    "palabra": "Jurassic Park",
+    "pistas": [
+      "Un parque temático con dinosaurios clonados",
+      "ADN en ámbar permite recrearlos",
+      "Dirigida por Steven Spielberg",
+      "Un vaso de agua vibra por pasos",
+      "Una isla tiene problemas con la electricidad",
+      "Un matemático predice el caos",
+      "Basada en una novela de Michael Crichton",
+      "Un tiranosaurio persigue a un jeep",
+      "Los velociraptores abren puertas",
+      "Hay mosquitos atrapados"
+    ]
+  },
+  {
+    "palabra": "El Rey León",
+    "pistas": [
+      "Un cachorro debe asumir el trono",
+      "Su tío es el villano",
+      "Una canción habla del ciclo sin fin",
+      "Un mono sabio levanta al cachorro",
+      "Dos amigos cantan \"Hakuna Matata\"",
+      "Es de Disney",
+      "Su ambientación es una sabana",
+      "El padre muere en una estampida",
+      "Se inspira en una tragedia de Shakespeare",
+      "Tres hienas sirven al villano"
+    ]
+  },
+  {
+    "palabra": "Toy Story",
+    "pistas": [
+      "Los juguetes cobran vida cuando nadie mira",
+      "Un vaquero y un astronauta compiten",
+      "Fue la primera película totalmente animada por ordenador",
+      "Un niño llamado Andy es el dueño",
+      "Pixar la produjo",
+      "Un perro de resorte es amigo",
+      "Un vecino malvado destruye juguetes",
+      "Una frase dice \"hasta el infinito y más allá\"",
+      "Un cerdito alcancía es sabio",
+      "Un sheriff tiene una bota con una serpiente"
+    ]
+  },
+  {
+    "palabra": "Frozen",
+    "pistas": [
+      "Una princesa tiene poderes de hielo",
+      "Dos hermanas son protagonistas",
+      "Un muñeco de nieve habla",
+      "Su canción más famosa dice \"suéltalo\"",
+      "Un reino queda en invierno eterno",
+      "Un reno ayuda a un joven repartidor",
+      "Disney la produjo",
+      "Se inspira en un cuento de Andersen",
+      "Un trol de roca ayuda",
+      "Un príncipe resulta ser un traidor"
+    ]
+  },
+  {
+    "palabra": "Harry Potter",
+    "pistas": [
+      "Un niño descubre que es mago",
+      "Una cicatriz en forma de rayo",
+      "Un colegio de magia lo recibe",
+      "Una estación tiene un andén secreto",
+      "Un villano sin nariz es el enemigo",
+      "Una escritora británica lo creó",
+      "Un deporte volador se juega con escobas",
+      "Cuatro casas dividen a los alumnos",
+      "Una lechuza blanca trae cartas",
+      "Un sombrero parlante asigna las casas"
+    ]
+  },
+  {
+    "palabra": "El Señor de los Anillos",
+    "pistas": [
+      "Un anillo debe ser destruido en un volcán",
+      "Un hobbit lidera una comunidad",
+      "Un mago gris es amigo",
+      "Una criatura obsesionada llama al anillo \"mi tesoro\"",
+      "Un ojo flamígero vigila",
+      "Peter Jackson la dirigió",
+      "Basada en la obra de Tolkien",
+      "Una compañía incluye un elfo, un enano y un humano",
+      "Se filmó en Nueva Zelanda",
+      "Una montaña llamada Destino es el escenario final"
+    ]
+  },
+  {
+    "palabra": "Piratas del Caribe",
+    "pistas": [
+      "Un capitán excéntrico con ron",
+      "Un barco negro es maldito",
+      "Un tesoro de monedas aztecas",
+      "Una película basada en una atracción de parque",
+      "Johnny Depp es el protagonista",
+      "Un herrero ama a la hija de un gobernador",
+      "Un monstruo marino con tentáculos",
+      "Una brújula no señala el norte",
+      "Marineros esqueléticos bajo la luna",
+      "Una tripulación maldita se transforma bajo la luna"
+    ]
+  },
+  {
+    "palabra": "Gladiador",
+    "pistas": [
+      "Sucede en el Imperio romano",
+      "Un general se convierte en esclavo",
+      "Un emperador joven es envidioso",
+      "Russell Crowe es el protagonista",
+      "Un coliseo es el escenario",
+      "Ridley Scott la dirigió",
+      "Quiere venganza por su familia",
+      "Ganó el Óscar a mejor película",
+      "Una frase dice \"en esta vida o en la otra\"",
+      "Un pulgar hacia abajo decide la suerte del vencido"
+    ]
+  },
+  {
+    "palabra": "Forrest Gump",
+    "pistas": [
+      "Un hombre sencillo vive grandes hechos históricos",
+      "Una caja de bombones es una metáfora",
+      "Corre a través del país",
+      "Se hace amigo de presidentes",
+      "Tom Hanks lo interpreta",
+      "Su gran amor se llama Jenny",
+      "Un camarón se vuelve negocio",
+      "Un banco en una parada cuenta su historia",
+      "Una pluma flota al inicio",
+      "Su amigo militar es un teniente que perdió las piernas"
+    ]
+  },
+  {
+    "palabra": "Shrek",
+    "pistas": [
+      "Un ogro vive en un pantano",
+      "Un burro parlante lo acompaña",
+      "Una princesa también es ogro",
+      "Un villano es bajito y pidió ser rey",
+      "Es de DreamWorks",
+      "Un hombre de jengibre es torturado",
+      "Un dragón es hembra",
+      "Parodia los cuentos de hadas",
+      "Una canción de Smash Mouth suena al inicio",
+      "Un gato con botas aparece en su segunda entrega"
+    ]
+  },
+  {
+    "palabra": "Buscando a Nemo",
+    "pistas": [
+      "Un pez payaso busca a su hijo",
+      "Una pez azul olvida todo rápido",
+      "Un dentista lo captura",
+      "Transcurre en el océano",
+      "Pixar la produjo",
+      "Hay una tortuga muy relajada",
+      "Un acuario tiene una pecera",
+      "Tiburones vegetarianos hacen un juramento",
+      "Un pelícano ayuda",
+      "Su protagonista tiene una aleta más pequeña que la otra"
+    ]
+  },
+  {
+    "palabra": "Los Increíbles",
+    "pistas": [
+      "Una familia de superhéroes vive de incógnito",
+      "Un niño es veloz y una niña invisible",
+      "Una diseñadora de trajes prohíbe las capas",
+      "Un villano quiere venganza",
+      "Una madre se estira",
+      "Pixar la produjo",
+      "Un padre es muy fuerte",
+      "El bebé tiene muchos poderes",
+      "Una isla es el escondite del villano",
+      "Una familia usa trajes con una letra en el pecho"
+    ]
+  },
+  {
+    "palabra": "Coco",
+    "pistas": [
+      "Un niño sueña con ser músico",
+      "Transcurre en el Día de Muertos",
+      "Un viaje al mundo de los difuntos",
+      "Un perro sin pelo es el guía",
+      "Es de Pixar",
+      "Una canción dice \"recuérdame\"",
+      "Tiene una guitarra blanca",
+      "Ambientada en México",
+      "Una familia prohíbe la música",
+      "Pétalos de caléndula forman un puente"
+    ]
+  },
+  {
+    "palabra": "Up",
+    "pistas": [
+      "Un anciano viaja en una casa con globos",
+      "Un niño explorador se cuela",
+      "Un perro habla con un collar",
+      "Una escena inicial muestra toda una vida",
+      "Una ave gigante tiene un nombre colorido",
+      "Va a las cataratas de Sudamérica",
+      "Un explorador es el villano",
+      "Pixar la produjo",
+      "La casa vuela con miles de globos",
+      "Una insignia de explorador es un premio emotivo"
+    ]
+  },
+  {
+    "palabra": "Ratatouille",
+    "pistas": [
+      "Una rata quiere ser chef",
+      "Transcurre en París",
+      "Un joven cocinero la ayuda",
+      "Un crítico de comida es temible",
+      "Se prepara un plato de verduras",
+      "Pixar la produjo",
+      "El lema es que cualquiera puede cocinar",
+      "Una rata controla al joven tirándole del pelo",
+      "Un restaurante tiene un chef fallecido",
+      "Un plato de verduras en capas conmueve a un crítico"
+    ]
+  },
+  {
+    "palabra": "Wall-E",
+    "pistas": [
+      "Un robot recoge basura",
+      "La Tierra está cubierta de residuos",
+      "Una robot blanca llega en una nave",
+      "Los humanos viven flotando",
+      "Una cucaracha es su única amiga",
+      "Pixar la produjo",
+      "Casi no tiene diálogos",
+      "Una planta crece en una bota",
+      "Una nave tiene un piloto automático rebelde",
+      "Un robot soñador mira un musical antiguo"
+    ]
+  },
+  {
+    "palabra": "Intensamente",
+    "pistas": [
+      "Cinco emociones viven en la cabeza de una niña",
+      "Una emoción amarilla lidera",
+      "Una niña se muda de ciudad",
+      "Hay una isla de la personalidad",
+      "Un amigo imaginario es mitad elefante y mitad delfín",
+      "Pixar la produjo",
+      "Un tren del pensamiento",
+      "Una secuela agrega ansiedad",
+      "Tristeza toca recuerdos azules",
+      "La emoción verde odia el brócoli"
+    ]
+  },
+  {
+    "palabra": "Batman: El caballero de la noche",
+    "pistas": [
+      "Un héroe de capa vive en una ciudad ficticia",
+      "Un payaso maquillado es el villano",
+      "Heath Ledger ganó un Óscar por interpretarlo",
+      "Christopher Nolan la dirigió",
+      "Un fiscal de rostro dividido aparece",
+      "Un murciélago ilumina el cielo",
+      "Ciudad Gótica es el escenario",
+      "Un mayordomo es leal",
+      "Se estrenó en 2008",
+      "Un camión se voltea en una persecución"
+    ]
+  },
+  {
+    "palabra": "Joker",
+    "pistas": [
+      "Un hombre con problemas mentales se vuelve villano",
+      "Joaquin Phoenix lo interpreta",
+      "Un baile en una escalera es famoso",
+      "Gotham es el escenario",
+      "Es una película de origen",
+      "Un humorista fallido es protagonista",
+      "Ganó el León de Oro de Venecia",
+      "Una risa incontrolable es su característica",
+      "Un programa de televisión es clave",
+      "Unas escaleras del Bronx se volvieron turísticas"
+    ]
+  },
+  {
+    "palabra": "Spider-Man",
+    "pistas": [
+      "Un joven recibe poderes tras una picadura",
+      "Un tío le dice que un gran poder implica responsabilidad",
+      "Un periódico lo persigue",
+      "Trepa muros",
+      "Un duende verde es un villano",
+      "Una chica pelirroja es su amor",
+      "Se lanza de edificio en edificio",
+      "Un traje rojo y azul",
+      "Es de Marvel",
+      "Una máscara roja con lentes blancos es el disfraz"
+    ]
+  },
+  {
+    "palabra": "Avengers: Endgame",
+    "pistas": [
+      "Los héroes viajan en el tiempo",
+      "Un titán malvado chasquea los dedos",
+      "Cierra una saga de más de veinte películas",
+      "Un traje de hierro hace un sacrificio",
+      "Captura una frase: \"Yo soy Iron Man\"",
+      "Un guerrero de un martillo es gordo",
+      "Los hermanos Russo la dirigieron",
+      "Una batalla final reúne a todos",
+      "Un anillo cuántico sirve para viajar",
+      "Un tercer acto con portales reúne a todos los héroes"
+    ]
+  },
+  {
+    "palabra": "Iron Man",
+    "pistas": [
+      "Un millonario construye un traje volador",
+      "Un reactor en el pecho lo mantiene vivo",
+      "Robert Downey Jr. lo interpreta",
+      "Una inteligencia artificial se llama Jarvis",
+      "Inicia un universo cinematográfico",
+      "Fue capturado en una cueva",
+      "Una empresa de armas",
+      "Su villano es un socio calvo",
+      "Una asistente lo ayuda",
+      "Una escena tras los créditos presenta a un agente con parche en el ojo"
+    ]
+  },
+  {
+    "palabra": "Black Panther",
+    "pistas": [
+      "Un rey de África tiene un traje",
+      "Un reino escondido se llama Wakanda",
+      "Un mineral llamado vibranium",
+      "Un primo vengativo lo desafía",
+      "Chadwick Boseman lo interpretó",
+      "Es de Marvel",
+      "Una guardia real de mujeres",
+      "Una hermana es científica",
+      "Una canción de Kendrick Lamar acompaña",
+      "Un saludo con los brazos cruzados sobre el pecho es icónico"
+    ]
+  },
+  {
+    "palabra": "Mad Max: Furia en el camino",
+    "pistas": [
+      "Se desarrolla en un desierto postapocalíptico",
+      "Una mujer manca conduce un camión",
+      "Un villano usa máscara de respiración",
+      "Los vehículos son modificados con guitarras de fuego",
+      "George Miller la dirigió",
+      "Un grito dice \"testigo\"",
+      "Un guerrero pintado de blanco",
+      "Persecución casi continua",
+      "Una ciudadela tiene agua",
+      "Un guitarrista con lanzallamas acompaña la batalla"
+    ]
+  },
+  {
+    "palabra": "Terminator",
+    "pistas": [
+      "Un robot viene del futuro",
+      "Su frase es \"volveré\"",
+      "Arnold Schwarzenegger lo interpreta",
+      "Un cyborg quiere matar a una mujer",
+      "Skynet es una IA",
+      "Un soldado también viaja",
+      "Un líquido plateado es otro robot en la secuela",
+      "James Cameron la dirigió",
+      "Una mujer llamada Sarah es protegida",
+      "Una frase dice \"hasta la vista, baby\""
+    ]
+  },
+  {
+    "palabra": "Alien",
+    "pistas": [
+      "Una criatura sale del pecho de un astronauta",
+      "Sucede en una nave espacial",
+      "Sigourney Weaver es protagonista",
+      "Ridley Scott la dirigió",
+      "\"En el espacio nadie puede oírte gritar\"",
+      "Un gato sobrevive",
+      "Un androide es traidor",
+      "Una compañía quiere el espécimen",
+      "Su monstruo tiene sangre ácida",
+      "Su nave se llama Nostromo"
+    ]
+  },
+  {
+    "palabra": "Psicosis",
+    "pistas": [
+      "Un motel aislado es el escenario",
+      "Una ducha es la escena más famosa",
+      "Alfred Hitchcock la dirigió",
+      "Un joven vive con su madre",
+      "Es en blanco y negro",
+      "Una mujer huye con dinero robado",
+      "Sus violines chillan",
+      "Un detective investiga",
+      "Un giro final revela una identidad",
+      "Una casona antigua se alza sobre el motel"
+    ]
+  },
+  {
+    "palabra": "Tiburón",
+    "pistas": [
+      "Un escualo ataca una playa",
+      "Un alcalde no cierra las playas",
+      "Steven Spielberg la dirigió",
+      "Una música de dos notas anuncia el peligro",
+      "Un jefe de policía le teme al agua",
+      "Una frase dice \"necesitaremos un barco más grande\"",
+      "Un pescador viejo es cazador",
+      "Una isla turística",
+      "Inició la era de los blockbusters",
+      "Unos barriles amarillos sirven para rastrearlo"
+    ]
+  },
+  {
+    "palabra": "El Exorcista",
+    "pistas": [
+      "Una niña es poseída",
+      "Su cabeza gira",
+      "Un sacerdote reza",
+      "Una escalera es escenario",
+      "Se estrenó en 1973",
+      "Vómito verde es famoso",
+      "Una madre pide ayuda",
+      "Se basa en una novela",
+      "Una casa tiene una habitación fría",
+      "Unas escaleras de Georgetown son lugar de culto"
+    ]
+  },
+  {
+    "palabra": "Rocky",
+    "pistas": [
+      "Un boxeador aficionado recibe una oportunidad",
+      "Corre por las escaleras de un museo",
+      "Sylvester Stallone la escribió",
+      "Su amada se llama Adrian",
+      "Se entrena golpeando carne",
+      "Su rival es un campeón",
+      "Filadelfia es el escenario",
+      "Gana el Óscar a mejor película",
+      "Una canción de trompetas acompaña sus entrenamientos",
+      "Una estatua de bronce del boxeador está en Filadelfia"
+    ]
+  },
+  {
+    "palabra": "Volver al futuro",
+    "pistas": [
+      "Un auto viaja en el tiempo",
+      "Un científico loco tiene un perro",
+      "Un adolescente va a 1955",
+      "Un reloj torre es clave",
+      "Se necesitan 1.21 gigavatios",
+      "Un auto es un DeLorean",
+      "Un joven evita que sus padres no se enamoren",
+      "Una guitarra eléctrica suena en un baile",
+      "Un matón se llama Biff",
+      "Un rayo sobre la torre del reloj es la clave"
+    ]
+  },
+  {
+    "palabra": "E.T. el extraterrestre",
+    "pistas": [
+      "Un alienígena se pierde en la Tierra",
+      "Un niño lo esconde en su armario",
+      "Bicicletas vuelan frente a la luna",
+      "Un dedo luminoso cura",
+      "Steven Spielberg la dirigió",
+      "Dice \"teléfono, mi casa\"",
+      "Un científico lo busca",
+      "Una planta se marchita",
+      "Un disfraz de fantasma",
+      "Un rastro de caramelos lo lleva al armario"
+    ]
+  },
+  {
+    "palabra": "Casablanca",
+    "pistas": [
+      "Es un clásico en blanco y negro",
+      "Un bar es el escenario",
+      "Una canción pide \"tócala otra vez\"",
+      "Humphrey Bogart es protagonista",
+      "Un amor vuelve en tiempos de guerra",
+      "Sucede en Marruecos",
+      "Una frase dice \"siempre nos quedará París\"",
+      "Ingrid Bergman es la actriz",
+      "Un aeropuerto cierra la trama",
+      "Una mujer de blanco llega con su esposo"
+    ]
+  },
+  {
+    "palabra": "Pulp Fiction",
+    "pistas": [
+      "Quentin Tarantino la dirigió",
+      "Dos sicarios hablan de hamburguesas",
+      "Un maletín brilla",
+      "Un baile en un restaurante con trofeos",
+      "Una jeringa clava el pecho",
+      "Su estructura no es cronológica",
+      "Samuel L. Jackson recita un versículo",
+      "John Travolta baila",
+      "Un boxeador debe perder",
+      "El contenido de un maletín brillante nunca se revela"
+    ]
+  },
+  {
+    "palabra": "El Club de la Pelea",
+    "pistas": [
+      "Un oficinista conoce a un vendedor de jabón",
+      "La primera regla es no hablar de él",
+      "Brad Pitt es uno de los protagonistas",
+      "David Fincher la dirigió",
+      "Un narrador sin nombre",
+      "Un edificio explota al final",
+      "Un giro cambia todo",
+      "Basada en una novela de Chuck Palahniuk",
+      "Hay grupos de apoyo",
+      "Un negocio vende jabón hecho con grasa"
+    ]
+  },
+  {
+    "palabra": "Inception",
+    "pistas": [
+      "Los sueños se anidan unos dentro de otros",
+      "Un ladrón extrae secretos mentales",
+      "Un trompo gira",
+      "Christopher Nolan la dirigió",
+      "Una ciudad se pliega sobre sí misma",
+      "Una canción lenta marca el tiempo",
+      "Un equipo infiltra la mente de un heredero",
+      "Una esposa fallecida aparece",
+      "Leonardo DiCaprio es protagonista",
+      "Un pequeño objeto que gira sirve para saber si se sueña"
+    ]
+  },
+  {
+    "palabra": "Interestelar",
+    "pistas": [
+      "Astronautas buscan un nuevo planeta",
+      "Un agujero negro es clave",
+      "Matthew McConaughey es protagonista",
+      "Christopher Nolan la dirigió",
+      "Un padre promete volver a su hija",
+      "Una cosecha se muere",
+      "Una biblioteca atraviesa el tiempo",
+      "Un robot tiene humor ajustable",
+      "La relatividad es un tema central",
+      "Un planeta con olas gigantes consume años de tiempo"
+    ]
+  },
+  {
+    "palabra": "Parásitos",
+    "pistas": [
+      "Una familia pobre se infiltra en una casa rica",
+      "Es surcoreana",
+      "Ganó el Óscar a mejor película",
+      "Una piedra es un regalo",
+      "Bong Joon-ho la dirigió",
+      "Un sótano esconde un secreto",
+      "Una tormenta inunda una vivienda",
+      "Un durazno es un problema",
+      "Habla de la desigualdad",
+      "Unas escaleras simbolizan el ascenso y el descenso social"
+    ]
+  },
+  {
+    "palabra": "Gran Torino",
+    "pistas": [
+      "Un viudo gruñón cuida su coche",
+      "Clint Eastwood la dirige y protagoniza",
+      "Un vecino joven hmong",
+      "Pandillas en el barrio",
+      "Un ex soldado de Corea",
+      "Un cura insiste en confesarlo",
+      "Un auto de 1972",
+      "Hay un final sacrificial",
+      "Una canción final suena junto a un lago",
+      "Una bandera cuelga del porche del protagonista"
+    ]
+  },
+  {
+    "palabra": "La vida es bella",
+    "pistas": [
+      "Un padre protege a su hijo con un juego",
+      "Es italiana",
+      "Sucede en un campo de concentración",
+      "Roberto Benigni la dirige y protagoniza",
+      "Un tanque es el premio",
+      "Un libro y un tren",
+      "Una librería es el inicio",
+      "Una canción de ópera suena por un altavoz",
+      "Una voz dice \"buongiorno, princesa\"",
+      "Un padre usa un juego de puntos para ocultar la verdad"
+    ]
+  },
+  {
+    "palabra": "Amélie",
+    "pistas": [
+      "Una joven parisina ayuda a otros en secreto",
+      "Un gnomo de jardín viaja",
+      "Un hombre colecciona fotos rotas",
+      "Es francesa",
+      "Una canción de acordeón la acompaña",
+      "Un cuadro de Renoir",
+      "Audrey Tautou es la actriz",
+      "Una caja de metal guarda tesoros de la infancia",
+      "Un bar en Montmartre",
+      "Un fotomatón es clave en su trama"
+    ]
+  },
+  {
+    "palabra": "El Laberinto del Fauno",
+    "pistas": [
+      "Una niña entra en un mundo de criaturas",
+      "Sucede durante la posguerra española",
+      "Guillermo del Toro la dirigió",
+      "Una criatura de cuernos le asigna tres pruebas",
+      "Un monstruo sin ojos tiene los ojos en las manos",
+      "Un capitán cruel es el villano",
+      "Una mandrágora bajo la cama",
+      "Un cuento de hadas oscuro",
+      "Una llave es clave",
+      "Una llave de plata y un hada con forma de insecto aparecen"
+    ]
+  },
+  {
+    "palabra": "Kung Fu Panda",
+    "pistas": [
+      "Un oso blanco y negro torpe es el guerrero dragón",
+      "Su maestro es un animal pequeño de pelaje rojizo",
+      "Un villano es un leopardo de las nieves",
+      "Jack Black le pone voz",
+      "Se come fideos y dumplings",
+      "Un pergamino está en blanco",
+      "Es de DreamWorks",
+      "Cinco furiosos maestros",
+      "Un ganso es el padre",
+      "Su saga llegó a una cuarta entrega"
+    ]
+  },
+  {
+    "palabra": "La Bella y la Bestia",
+    "pistas": [
+      "Una joven se enamora de un príncipe hechizado",
+      "Un candelabro y un reloj hablan",
+      "Una rosa pierde pétalos",
+      "Una tetera y su hijo son amigos",
+      "Un baile en un salón dorado",
+      "Un cazador arrogante la quiere",
+      "Una biblioteca enorme",
+      "Es de Disney",
+      "La canción principal dice \"cuento eterno\"",
+      "Una escena de baile ocurre bajo una gran lámpara"
+    ]
+  },
+  {
+    "palabra": "Aladdín",
+    "pistas": [
+      "Un joven ladrón encuentra una lámpara",
+      "Un genio azul concede deseos",
+      "Una princesa quiere libertad",
+      "Una alfombra voladora",
+      "Un malvado visir quiere la lámpara",
+      "Un tigre es amigo de la princesa",
+      "Se cantan canciones de un mundo ideal",
+      "Un loro es malvado",
+      "Es de Disney",
+      "Un mercado de Agrabá abre la historia"
+    ]
+  }
+]

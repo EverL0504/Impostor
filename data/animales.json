@@ -1,0 +1,752 @@
+[
+  {
+    "palabra": "León",
+    "pistas": [
+      "Es llamado el rey de la selva",
+      "Los machos lucen una melena",
+      "Vive en grupos llamados manadas",
+      "Sus hembras suelen cazar",
+      "Ruge a gran distancia",
+      "Duerme muchas horas al día",
+      "Es un felino de la sabana africana",
+      "Aparece en una película animada de un príncipe",
+      "Es un símbolo de realeza y valentía",
+      "Su cría se llama cachorro"
+    ]
+  },
+  {
+    "palabra": "Elefante",
+    "pistas": [
+      "Es el mayor animal terrestre",
+      "Tiene una larga nariz muy versátil",
+      "Sus colmillos son de marfil",
+      "Vive en grupos liderados por una hembra",
+      "Tiene una memoria legendaria",
+      "Se baña con agua que lanza con su cuerpo",
+      "Sus orejas son enormes",
+      "Es un símbolo de sabiduría",
+      "Existe una especie africana y otra asiática",
+      "Barrita para comunicarse a distancia"
+    ]
+  },
+  {
+    "palabra": "Jirafa",
+    "pistas": [
+      "Es el animal más alto del mundo",
+      "Tiene el cuello larguísimo",
+      "Su lengua es azulada",
+      "Come hojas de acacia",
+      "Su pelaje tiene manchas irregulares",
+      "Vive en la sabana",
+      "Duerme muy pocas horas",
+      "Sus cuernos están cubiertos de piel",
+      "Para beber debe abrir las patas",
+      "Su cría nace de pie desde una gran altura"
+    ]
+  },
+  {
+    "palabra": "Tigre",
+    "pistas": [
+      "Es el felino más grande",
+      "Tiene un pelaje naranja con rayas negras",
+      "Es un cazador solitario",
+      "Le gusta el agua más que a otros gatos",
+      "Vive en bosques y manglares de Asia",
+      "Está en peligro de extinción",
+      "Es nocturno y muy sigiloso",
+      "Un personaje de un libro de la selva es su enemigo",
+      "Cada individuo tiene un patrón único de rayas",
+      "Sus ojos brillan en la oscuridad de la selva"
+    ]
+  },
+  {
+    "palabra": "Oso polar",
+    "pistas": [
+      "Vive en el Ártico",
+      "Su pelaje parece blanco pero es translúcido",
+      "Caza focas",
+      "Tiene una gruesa capa de grasa",
+      "Es el mayor carnívoro terrestre",
+      "Nada grandes distancias",
+      "Su piel es negra",
+      "Está amenazado por el deshielo",
+      "Una marca de refrescos lo usa en anuncios navideños",
+      "Las hembras pasan el invierno en una guarida de nieve"
+    ]
+  },
+  {
+    "palabra": "Panda",
+    "pistas": [
+      "Come casi solo bambú",
+      "Su pelaje es blanco y negro",
+      "Es símbolo de conservación",
+      "Vive en las montañas de un gran país asiático",
+      "Pasa horas masticando",
+      "Los zoológicos lo prestan como señal diplomática",
+      "Sus crías son diminutas y rosadas",
+      "Parece perezoso y tierno",
+      "Tiene un falso pulgar",
+      "Su nombre se repite en una saga de artes marciales"
+    ]
+  },
+  {
+    "palabra": "Canguro",
+    "pistas": [
+      "Salta con sus patas traseras",
+      "Las hembras tienen una bolsa",
+      "Es el emblema de un país oceánico",
+      "Su cola es potente",
+      "Vive en grandes llanuras",
+      "Sus crías nacen muy pequeñas",
+      "Puede boxear con otros machos",
+      "Se mueve en grupos llamados mobs",
+      "No puede caminar hacia atrás",
+      "Sus crías se llaman joeys"
+    ]
+  },
+  {
+    "palabra": "Koala",
+    "pistas": [
+      "Duerme hasta veinte horas al día",
+      "Se alimenta de eucalipto",
+      "Vive en un continente insular",
+      "Se parece a un oso pero no lo es",
+      "Su cría vive en la bolsa de la madre",
+      "Tiene huellas dactilares",
+      "Se agarra a los troncos",
+      "Es muy afectado por incendios",
+      "Es pequeño, gris y peludo",
+      "Casi no bebe agua porque obtiene humedad de las hojas"
+    ]
+  },
+  {
+    "palabra": "Delfín",
+    "pistas": [
+      "Es un mamífero marino muy inteligente",
+      "Se comunica con chasquidos",
+      "Salta fuera del agua",
+      "Vive en grupos",
+      "Usa ecolocalización",
+      "Respira por un orificio en su cabeza",
+      "Es amistoso con los humanos",
+      "Algunas especies viven en ríos",
+      "Su sonrisa es característica",
+      "Se le entrena para espectáculos en acuarios"
+    ]
+  },
+  {
+    "palabra": "Ballena azul",
+    "pistas": [
+      "Es el animal más grande que ha existido",
+      "Su corazón pesa cientos de kilos",
+      "Se alimenta de diminutos crustáceos",
+      "Su canto viaja leguas",
+      "Respira por un espiráculo",
+      "Es un mamífero oceánico",
+      "Vive en todos los mares",
+      "Casi la extinguió la caza",
+      "Su lengua pesa como un elefante",
+      "Pesa más que decenas de elefantes juntos"
+    ]
+  },
+  {
+    "palabra": "Tiburón blanco",
+    "pistas": [
+      "Es un gran depredador marino",
+      "Tiene filas de dientes que se renuevan",
+      "Detecta gotas de sangre a distancia",
+      "Un famoso director lo volvió temible en el cine",
+      "Nunca deja de nadar",
+      "Su aleta dorsal es inconfundible",
+      "No tiene huesos, sino cartílago",
+      "Vive en aguas templadas",
+      "Salta del agua al atacar focas",
+      "Los surfistas lo temen en ciertas costas"
+    ]
+  },
+  {
+    "palabra": "Pingüino",
+    "pistas": [
+      "No puede volar",
+      "Camina erguido y torpe",
+      "Vive en el hemisferio sur",
+      "Su plumaje parece un traje de etiqueta",
+      "Nada muy rápido",
+      "Los machos incuban los huevos en algunas especies",
+      "Se agrupa para calentarse",
+      "Come pescado y krill",
+      "Un personaje de película animada baila en su hielo",
+      "Algunas especies viven en las islas Galápagos, sin hielo"
+    ]
+  },
+  {
+    "palabra": "Águila",
+    "pistas": [
+      "Es una ave rapaz",
+      "Tiene una vista agudísima",
+      "Anida en lugares altos",
+      "Es símbolo de varios países",
+      "Su pico es curvo",
+      "Su envergadura es grande",
+      "Caza desde las alturas",
+      "Se asocia a la libertad",
+      "Su cría se llama aguilucho",
+      "Una de cabeza blanca es emblema de una potencia norteamericana"
+    ]
+  },
+  {
+    "palabra": "Búho",
+    "pistas": [
+      "Es un ave nocturna",
+      "Puede girar su cabeza casi por completo",
+      "Tiene grandes ojos",
+      "Vuela sin hacer ruido",
+      "Simboliza la sabiduría",
+      "Come pequeños roedores",
+      "Su canto suena a \"uh uh\"",
+      "Vive en bosques y graneros",
+      "Tiene discos faciales para oír mejor",
+      "Los antiguos griegos lo asociaban con Atenea"
+    ]
+  },
+  {
+    "palabra": "Loro",
+    "pistas": [
+      "Puede imitar voces humanas",
+      "Tiene plumas muy coloridas",
+      "Tiene un pico curvo y fuerte",
+      "Vive en selvas tropicales",
+      "Come frutas y semillas",
+      "Es muy social",
+      "Los piratas lo ponían en su hombro",
+      "Su vida es larguísima",
+      "Sujeta los alimentos con una pata",
+      "Su pariente de cola larguísima y plumas rojas es el guacamayo"
+    ]
+  },
+  {
+    "palabra": "Flamenco",
+    "pistas": [
+      "Su plumaje es rosado",
+      "Descansa sobre una sola pata",
+      "Vive en lagunas saladas",
+      "Se alimenta de algas y crustáceos",
+      "Su pico es curvo",
+      "Vive en colonias enormes",
+      "Su color proviene de lo que come",
+      "Tiene patas muy largas",
+      "Aparece en jardines como adorno",
+      "Es muy usado como adorno rosa en piscinas"
+    ]
+  },
+  {
+    "palabra": "Pavo real",
+    "pistas": [
+      "Los machos tienen una cola vistosa",
+      "Abre sus plumas en abanico",
+      "Simboliza la belleza y la vanidad",
+      "Sus plumas tienen \"ojos\"",
+      "Es originario de Asia",
+      "Emite un grito fuerte",
+      "Exhibe su cola para atraer pareja",
+      "Es un ave terrestre",
+      "Vive en parques y jardines",
+      "Su nombre se usa para describir a alguien presumido"
+    ]
+  },
+  {
+    "palabra": "Serpiente",
+    "pistas": [
+      "No tiene patas",
+      "Cambia su piel",
+      "Algunas tienen veneno",
+      "Saca la lengua para oler",
+      "Puede tragar presas enteras",
+      "Se mueve reptando",
+      "Tiene escamas",
+      "Un instrumento musical la hace bailar con un encantador",
+      "Aparece en un famoso jardín de la mitología bíblica",
+      "Algunas aprietan a sus presas hasta asfixiarlas"
+    ]
+  },
+  {
+    "palabra": "Cocodrilo",
+    "pistas": [
+      "Es un gran reptil acuático",
+      "Tiene mandíbulas poderosas",
+      "Espera casi inmóvil en el agua",
+      "Llora supuestas lágrimas",
+      "Los huevos los cuida la madre",
+      "Su piel es muy dura",
+      "Vive en ríos tropicales",
+      "Es antiguo como los dinosaurios",
+      "Su hocico es largo y fino",
+      "Su pariente de hocico más ancho es el caimán"
+    ]
+  },
+  {
+    "palabra": "Tortuga",
+    "pistas": [
+      "Lleva su casa encima",
+      "Es muy lenta",
+      "Vive muchísimos años",
+      "Pone huevos en la arena",
+      "Una famosa fábula la enfrenta con una liebre",
+      "Su caparazón la protege",
+      "Hay marinas y terrestres",
+      "Puede esconder su cabeza",
+      "Aparece en islas famosas por una teoría evolutiva",
+      "Algunas migran miles de kilómetros para desovar"
+    ]
+  },
+  {
+    "palabra": "Rana",
+    "pistas": [
+      "Sus crías son renacuajos",
+      "Salta",
+      "Su piel es húmeda",
+      "Tiene una lengua pegajosa",
+      "Croa por las noches",
+      "Vive cerca del agua",
+      "Algunas son muy venenosas",
+      "Un cuento de besos la convierte en príncipe",
+      "Es anfibio",
+      "Muchas especies se comen su propia piel mudada"
+    ]
+  },
+  {
+    "palabra": "Camaleón",
+    "pistas": [
+      "Cambia de color",
+      "Sus ojos giran independientemente",
+      "Tiene una lengua larguísima",
+      "Vive en árboles",
+      "Camina muy despacio",
+      "Su cola es prensil",
+      "Es un reptil",
+      "Se camufla en el entorno",
+      "Abunda en una gran isla africana",
+      "Algunos tienen cuernos en la cabeza"
+    ]
+  },
+  {
+    "palabra": "Camello",
+    "pistas": [
+      "Almacena grasa en una joroba",
+      "Resiste largos tiempos sin agua",
+      "Vive en el desierto",
+      "Tiene pestañas largas",
+      "Sirve de transporte en caravanas",
+      "Es pariente de la llama",
+      "Escupe cuando se enfada",
+      "Hay variantes con una o dos jorobas",
+      "Los reyes magos lo montaban",
+      "Sus patas tienen almohadillas anchas para la arena"
+    ]
+  },
+  {
+    "palabra": "Caballo",
+    "pistas": [
+      "Se usa para montar",
+      "Relincha",
+      "Corre a gran velocidad",
+      "Duerme a veces de pie",
+      "Usa herraduras",
+      "Los vaqueros lo cabalgaban",
+      "Tiene crines",
+      "Un juego de ajedrez lo representa",
+      "Se mide por manos",
+      "Su fuerza dio nombre a una unidad de potencia"
+    ]
+  },
+  {
+    "palabra": "Perro",
+    "pistas": [
+      "Es el mejor amigo del hombre",
+      "Mueve la cola",
+      "Ladra",
+      "Fue domesticado hace miles de años",
+      "Tiene un olfato extraordinario",
+      "Hay razas de todos los tamaños",
+      "Cuida rebaños o casas",
+      "Se le saca a pasear",
+      "Su pariente salvaje es el lobo",
+      "Algunos viajaron al espacio antes que las personas"
+    ]
+  },
+  {
+    "palabra": "Gato",
+    "pistas": [
+      "Ronronea",
+      "Tiene bigotes",
+      "Siempre cae de pie",
+      "Duerme gran parte del día",
+      "Se limpia con la lengua",
+      "Los antiguos egipcios lo veneraban",
+      "Caza ratones",
+      "Se dice que tiene siete vidas",
+      "Sus ojos brillan en la oscuridad",
+      "Su ronroneo se asocia con calma"
+    ]
+  },
+  {
+    "palabra": "Vaca",
+    "pistas": [
+      "Da leche",
+      "Es rumiante",
+      "Mugido",
+      "Los hindúes la consideran sagrada",
+      "Vive en granjas",
+      "Tiene cuatro estómagos",
+      "Su carne es muy consumida",
+      "Pasta en el campo",
+      "Su cría es el ternero",
+      "Suele llevar un cencerro en el cuello"
+    ]
+  },
+  {
+    "palabra": "Cerdo",
+    "pistas": [
+      "Gruñe",
+      "Le gusta revolcarse en el barro",
+      "Es más inteligente de lo que parece",
+      "Se cría para obtener jamón",
+      "Tiene la cola enrollada",
+      "Vive en granjas",
+      "Un famoso cuento habla de tres hermanos y un lobo",
+      "Su nariz es chata",
+      "Su cría es el lechón",
+      "En una famosa novela de Orwell gobierna una granja"
+    ]
+  },
+  {
+    "palabra": "Oveja",
+    "pistas": [
+      "Su lana se esquila",
+      "Bala",
+      "Forma rebaños",
+      "Se dice que se cuentan para conciliar el sueño",
+      "Sus crías son corderos",
+      "Un famoso clon se llamó Dolly",
+      "Vive en el campo",
+      "Un perro pastor la guía",
+      "Su carne y su leche son aprovechadas",
+      "Un oficio llamado esquilador trabaja con ella"
+    ]
+  },
+  {
+    "palabra": "Gallina",
+    "pistas": [
+      "Pone huevos",
+      "Cacarea",
+      "Su macho canta al amanecer",
+      "Vive en corrales",
+      "No vuela bien",
+      "Sus polluelos nacen de cáscara",
+      "Picotea el suelo",
+      "Es la base de una sopa popular",
+      "Duerme sobre perchas",
+      "Un refrán dice que no se cuentan sus polluelos antes de nacer"
+    ]
+  },
+  {
+    "palabra": "Pato",
+    "pistas": [
+      "Nada y camina",
+      "Hace cuac",
+      "Sus patas son palmeadas",
+      "Su plumaje repele el agua",
+      "Un famoso personaje de dibujos con traje de marinero es uno",
+      "Migra en invierno",
+      "Se asocia con estanques",
+      "Su pico es plano",
+      "Existe una versión de goma para el baño",
+      "Un famoso cuento de Andersen lo presenta como feo y luego cisne"
+    ]
+  },
+  {
+    "palabra": "Abeja",
+    "pistas": [
+      "Produce miel",
+      "Vive en colmenas",
+      "Poliniza flores",
+      "Su picadura es dolorosa",
+      "Baila para comunicar direcciones",
+      "Hay una reina",
+      "Su cera forma panales",
+      "Es esencial para la agricultura",
+      "Trabaja de forma colectiva",
+      "Su pariente grande y peludo es el abejorro"
+    ]
+  },
+  {
+    "palabra": "Hormiga",
+    "pistas": [
+      "Vive en colonias",
+      "Cargan objetos mucho más pesados que ellas",
+      "Hay una reina",
+      "Trabajan en fila",
+      "Construyen hormigueros",
+      "Son pequeñas y laboriosas",
+      "Algunas cultivan hongos",
+      "Una fábula la compara con una cigarra",
+      "Sus antenas son sensibles",
+      "Algunas tienen alas y forman enjambres tras la lluvia"
+    ]
+  },
+  {
+    "palabra": "Mariposa",
+    "pistas": [
+      "Sufre una metamorfosis",
+      "Tiene alas coloridas",
+      "Nace de una crisálida",
+      "Se alimenta de néctar",
+      "Vive pocas semanas",
+      "Revolotea entre las flores",
+      "Una especie migra miles de kilómetros",
+      "Simboliza la transformación",
+      "Sus antenas tienen forma de maza",
+      "Su pariente nocturno es la polilla"
+    ]
+  },
+  {
+    "palabra": "Araña",
+    "pistas": [
+      "Teje redes",
+      "Tiene ocho patas",
+      "Atrapa insectos",
+      "Algunas son venenosas",
+      "Un famoso superhéroe tiene su nombre",
+      "Su seda es muy resistente",
+      "Muchos le temen",
+      "Una famosa historia infantil la muestra escribiendo mensajes en su tela",
+      "No es insecto",
+      "Su pariente cercano es el escorpión"
+    ]
+  },
+  {
+    "palabra": "Lobo",
+    "pistas": [
+      "Aúlla a la luna",
+      "Vive en manadas",
+      "Es el ancestro de los perros",
+      "Caza en grupo",
+      "Tiene un líder alfa",
+      "Aparece en cuentos con una niña de caperuza",
+      "Vive en bosques fríos",
+      "Su olfato es extraordinario",
+      "Es un símbolo de libertad salvaje",
+      "Una hembra amamantó a los fundadores de Roma según el mito"
+    ]
+  },
+  {
+    "palabra": "Zorro",
+    "pistas": [
+      "Es astuto",
+      "Tiene cola esponjosa",
+      "Es de pelaje rojizo",
+      "Un principito se hizo amigo de uno",
+      "Caza ratones",
+      "Vive en madrigueras",
+      "Aparece en fábulas con uvas",
+      "Es nocturno",
+      "Su hocico es puntiagudo",
+      "Hay una variedad del desierto con orejas enormes"
+    ]
+  },
+  {
+    "palabra": "Mono",
+    "pistas": [
+      "Trepa árboles",
+      "Es nuestro pariente cercano",
+      "Come bananas",
+      "Tiene cola prensil en algunas especies",
+      "Imita a los humanos",
+      "Vive en selvas",
+      "Puede ser muy travieso",
+      "Una película sobre un planeta gobernado por simios lo hizo famoso",
+      "Los hay grandes y pequeños",
+      "Tres de ellos simbolizan no ver, no oír y no hablar"
+    ]
+  },
+  {
+    "palabra": "Gorila",
+    "pistas": [
+      "Es el primate más grande",
+      "Los machos tienen lomo plateado",
+      "Se golpea el pecho",
+      "Vive en selvas africanas",
+      "Está amenazado de extinción",
+      "Es herbívoro",
+      "Se comunica con sonidos",
+      "Un famoso gigante trepó a un edificio en el cine",
+      "Vive en grupos liderados por un macho",
+      "Duerme en nidos que construye cada noche"
+    ]
+  },
+  {
+    "palabra": "Murciélago",
+    "pistas": [
+      "Es un mamífero que vuela",
+      "Duerme colgado boca abajo",
+      "Usa ecolocalización",
+      "Sale de noche",
+      "Algunos se alimentan de sangre",
+      "Vive en cuevas",
+      "Su figura se asocia a un superhéroe oscuro",
+      "Polinizan plantas",
+      "Su ala es una membrana",
+      "Es el único mamífero capaz de volar de verdad"
+    ]
+  },
+  {
+    "palabra": "Rinoceronte",
+    "pistas": [
+      "Tiene uno o dos cuernos",
+      "Su piel es muy gruesa",
+      "Es herbívoro y pesado",
+      "Es cazado ilegalmente",
+      "Vive en África y Asia",
+      "Tiene mala vista",
+      "Embiste cuando se enfurece",
+      "Su cuerno es de queratina",
+      "Un pájaro se posa sobre su lomo",
+      "La especie llamada blanca en realidad es gris"
+    ]
+  },
+  {
+    "palabra": "Hipopótamo",
+    "pistas": [
+      "Pasa el día en el agua",
+      "Su nombre significa caballo de río",
+      "Abre su boca enorme",
+      "Es muy peligroso aunque parezca torpe",
+      "Suda una sustancia rojiza",
+      "Vive en África",
+      "Come pasto de noche",
+      "Su piel es muy sensible al sol",
+      "Es un herbívoro gigante",
+      "Provoca más muertes humanas en África que muchos felinos"
+    ]
+  },
+  {
+    "palabra": "Cebra",
+    "pistas": [
+      "Tiene rayas blancas y negras",
+      "Vive en la sabana africana",
+      "Cada una tiene un patrón único",
+      "Es un équido",
+      "Sus rayas confunden a las moscas",
+      "Vive en manadas",
+      "Es veloz",
+      "No se puede domesticar fácilmente",
+      "Su cría nace y camina pronto",
+      "Su pelaje recuerda a un paso peatonal"
+    ]
+  },
+  {
+    "palabra": "Pulpo",
+    "pistas": [
+      "Tiene ocho brazos",
+      "Es muy inteligente",
+      "Cambia de color",
+      "Lanza tinta",
+      "Tiene tres corazones",
+      "Puede escapar por pequeños huecos",
+      "Es un molusco sin concha",
+      "Uno fue famoso por pronosticar partidos de un Mundial",
+      "Vive en el fondo marino",
+      "Tiene sangre de color azul"
+    ]
+  },
+  {
+    "palabra": "Medusa",
+    "pistas": [
+      "No tiene cerebro",
+      "Su cuerpo es casi transparente",
+      "Flota en el mar",
+      "Sus tentáculos pican",
+      "Algunas brillan en la oscuridad",
+      "Es gelatinosa",
+      "Se desplaza por pulsos",
+      "Abunda en verano en las costas",
+      "Existe una especie que es biológicamente inmortal",
+      "Comparte nombre con un monstruo mitológico de cabello de serpientes"
+    ]
+  },
+  {
+    "palabra": "Caracol",
+    "pistas": [
+      "Lleva una concha en espiral",
+      "Es muy lento",
+      "Deja un rastro de baba",
+      "Tiene antenas con ojos",
+      "Come hojas",
+      "Sale con la lluvia",
+      "Algunos se comen en la cocina francesa",
+      "Se esconde en su casa",
+      "Es molusco",
+      "Su baba se utiliza en productos de cosmética"
+    ]
+  },
+  {
+    "palabra": "Erizo",
+    "pistas": [
+      "Su cuerpo está cubierto de púas",
+      "Se enrolla como una bola",
+      "Es pequeño y nocturno",
+      "Come insectos",
+      "Un famoso videojuego tiene uno azul y veloz",
+      "Hiberna en invierno",
+      "Vive en jardines",
+      "Su hocico es largo",
+      "Es inofensivo",
+      "Su pariente marino también tiene espinas"
+    ]
+  },
+  {
+    "palabra": "Ardilla",
+    "pistas": [
+      "Trepa árboles",
+      "Almacena nueces",
+      "Tiene cola muy peluda",
+      "Es pequeña y ágil",
+      "Vive en bosques",
+      "Siempre está en movimiento",
+      "Se alimenta de bellotas",
+      "Un personaje de dibujos animados con cola grande es una",
+      "Salta de rama en rama",
+      "Existen voladoras que planean entre los árboles"
+    ]
+  },
+  {
+    "palabra": "Conejo",
+    "pistas": [
+      "Tiene orejas largas",
+      "Salta",
+      "Come zanahorias",
+      "Se reproduce mucho",
+      "Vive en madrigueras",
+      "Un famoso personaje de dibujos tiene dientes grandes",
+      "Su pariente la liebre es más rápida",
+      "Se asocia con la Pascua",
+      "Aparece en un cuento de una niña y un reloj",
+      "Se le saca de una chistera en los trucos de magia"
+    ]
+  },
+  {
+    "palabra": "Llama",
+    "pistas": [
+      "Vive en los Andes",
+      "Carga mercancías",
+      "Su lana se usa para tejer",
+      "Escupe",
+      "Es pariente del camello",
+      "Camina por altas montañas",
+      "Se cría en rebaños",
+      "Tiene cuello largo y orejas puntiagudas",
+      "Es herbívora y dócil",
+      "Su pariente más pequeño de lana fina es la vicuña"
+    ]
+  }
+]

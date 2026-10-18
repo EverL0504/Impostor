@@ -1,0 +1,752 @@
+[
+  {
+    "palabra": "Minecraft",
+    "pistas": [
+      "Se construye con bloques cuadrados",
+      "Hay una dimensión con lava y fortalezas",
+      "Un monstruo verde explota al acercarse",
+      "Se pueden cultivar y minar recursos",
+      "Tiene un modo creativo",
+      "Es el videojuego más vendido de la historia",
+      "Un dragón negro habita el fin",
+      "Una mesa sirve para fabricar objetos",
+      "Sus gráficos son pixelados",
+      "Lo creó Markus Persson"
+    ]
+  },
+  {
+    "palabra": "Fortnite",
+    "pistas": [
+      "Cien jugadores caen de un autobús volador",
+      "Se construyen estructuras rápidamente",
+      "Una tormenta reduce el mapa",
+      "Tiene bailes famosos",
+      "Es gratuito",
+      "Epic Games lo desarrolló",
+      "Ha hecho conciertos virtuales",
+      "Se usan \"pavos\" como moneda",
+      "Ganar se celebra con \"victoria magistral\"",
+      "Su modo creativo permite construir islas propias"
+    ]
+  },
+  {
+    "palabra": "Super Mario Bros.",
+    "pistas": [
+      "Un fontanero salta sobre enemigos",
+      "Un hongo lo hace crecer",
+      "Una princesa es rescatada",
+      "Un reptil con caparazón espinoso es el villano",
+      "Su hermano se viste de verde",
+      "Tiene tuberías verdes",
+      "Es de Nintendo",
+      "Monedas doradas suenan al tomarlas",
+      "Una flor lanza bolas de fuego",
+      "Un recorrido por mundos numerados termina en un castillo"
+    ]
+  },
+  {
+    "palabra": "The Legend of Zelda",
+    "pistas": [
+      "El héroe no se llama como el título",
+      "Un villano quiere la Trifuerza",
+      "Una princesa le da nombre al título",
+      "Se explora Hyrule",
+      "Un héroe silencioso de verde",
+      "Se usan bombas y bumeranes",
+      "Una ocarina es un instrumento clave",
+      "Es de Nintendo",
+      "Una espada maestra se saca de una piedra",
+      "Sus mazmorras terminan con un jefe y un contenedor de corazón"
+    ]
+  },
+  {
+    "palabra": "Pokémon",
+    "pistas": [
+      "Se capturan criaturas con bolas",
+      "Un ratón amarillo es el emblema",
+      "Se entrenan para combatir",
+      "Hay una enciclopedia que se completa",
+      "Un niño de gorra quiere ser maestro",
+      "Hay evoluciones",
+      "Se intercambian con amigos",
+      "Hay un equipo de villanos con una R",
+      "Es de Nintendo y Game Freak",
+      "Existen versiones identificadas por colores como rojo y azul"
+    ]
+  },
+  {
+    "palabra": "FIFA",
+    "pistas": [
+      "Simula partidos de fútbol",
+      "Se compran sobres de jugadores",
+      "Un modo permite construir un equipo ideal",
+      "Un narrador comenta jugadas",
+      "Ahora cambió de nombre por una disputa de licencia",
+      "Se juega en consolas",
+      "Los equipos son reales",
+      "Tiene una portada con un futbolista",
+      "Su rival histórico se llama Pro Evolution Soccer",
+      "Sale una nueva edición cada año"
+    ]
+  },
+  {
+    "palabra": "Grand Theft Auto V",
+    "pistas": [
+      "Hay tres protagonistas",
+      "Una ciudad ficticia se parece a Los Ángeles",
+      "Se roban autos y se hacen atracos",
+      "Rockstar lo desarrolló",
+      "Tiene un modo en línea muy popular",
+      "Un jugador puede cambiar de personaje",
+      "Un banco es objetivo en una misión",
+      "Un perro se llama Chop",
+      "Vendió más de ciento noventa millones de copias",
+      "Uno de sus protagonistas llamado Trevor es muy impredecible"
+    ]
+  },
+  {
+    "palabra": "Call of Duty",
+    "pistas": [
+      "Es un shooter militar",
+      "Se juega en primera persona",
+      "Cada año sale una entrega",
+      "Hay un modo de zombis",
+      "Un capitán de bigote es famoso",
+      "Hay campañas históricas y modernas",
+      "Tiene un modo online competitivo",
+      "Activision lo publica",
+      "Hay entregas ambientadas en la Segunda Guerra Mundial",
+      "Es una de las sagas de shooters más vendidas"
+    ]
+  },
+  {
+    "palabra": "The Last of Us",
+    "pistas": [
+      "Un hombre protege a una niña",
+      "Hongos infectan a la humanidad",
+      "Un mundo postapocalíptico",
+      "Se sabe de un tipo de infectados que chasquean",
+      "Tiene una serie televisiva",
+      "Se juega con sigilo",
+      "Naughty Dog lo creó",
+      "Se usan ladrillos y tablas como armas",
+      "Una jirafa aparece",
+      "Su protagonista adulto se llama Joel"
+    ]
+  },
+  {
+    "palabra": "God of War",
+    "pistas": [
+      "Un espartano busca venganza",
+      "Usa cadenas en llamas",
+      "Mata dioses",
+      "Más tarde viaja al norte con su hijo",
+      "Tiene un hacha que regresa",
+      "Un personaje se llama Kratos",
+      "Se basa en mitologías",
+      "Es de Sony",
+      "Una mitología griega y luego nórdica",
+      "Un hijo llamado Atreus aprende a cazar"
+    ]
+  },
+  {
+    "palabra": "Red Dead Redemption 2",
+    "pistas": [
+      "Es un western",
+      "Un forajido pertenece a una banda",
+      "Su jefe se llama Dutch",
+      "Rockstar lo desarrolló",
+      "Se puede cazar y pescar",
+      "Un caballo se vincula con el jugador",
+      "El mundo es abierto",
+      "Es una precuela",
+      "Un protagonista llamado Arthur",
+      "La banda debe mudar el campamento con frecuencia"
+    ]
+  },
+  {
+    "palabra": "The Witcher 3",
+    "pistas": [
+      "Un cazador de monstruos de cabello blanco",
+      "Se desarrolla un juego de cartas",
+      "Un caballo se llama Sardinilla",
+      "Es de una compañía polaca",
+      "Se basa en novelas",
+      "Una chica de cabello ceniza es clave",
+      "Se explora un mundo abierto",
+      "Una cacería salvaje es una amenaza",
+      "Su protagonista es Geralt",
+      "Se usan una espada de plata y otra de acero"
+    ]
+  },
+  {
+    "palabra": "Skyrim",
+    "pistas": [
+      "Un dragón acecha un reino nevado",
+      "Se puede usar \"gritos\"",
+      "Un guerrero tiene sangre de dragón",
+      "Bethesda lo desarrolló",
+      "Una frase se repite sobre una flecha en la rodilla",
+      "Se puede casar",
+      "Se puede ser vampiro",
+      "Un clan llamado Ladrones",
+      "Se ha lanzado en incontables plataformas",
+      "Su mapa está cubierto de nieve y montañas"
+    ]
+  },
+  {
+    "palabra": "Among Us",
+    "pistas": [
+      "Un traidor se oculta entre la tripulación",
+      "Se sabotea una nave",
+      "Los jugadores votan para expulsar",
+      "Tiene personajes de trajes de colores",
+      "Se hizo viral en streams",
+      "Se juega con tareas",
+      "Se puede reportar un cuerpo",
+      "Es multijugador",
+      "Se grita \"sus\"",
+      "Se puede ver a los impostores moverse por los conductos"
+    ]
+  },
+  {
+    "palabra": "League of Legends",
+    "pistas": [
+      "Es un juego de estrategia en equipo",
+      "Cinco contra cinco",
+      "Hay torres y nexos",
+      "Los héroes se llaman campeones",
+      "Se juega en una grieta",
+      "Es de Riot Games",
+      "Se celebra un campeonato mundial",
+      "Se compran skins",
+      "Arcane es su serie",
+      "Una serie animada sobre Piltover y Zaun está basada en él"
+    ]
+  },
+  {
+    "palabra": "Counter-Strike",
+    "pistas": [
+      "Terroristas contra antiterroristas",
+      "Se compra armamento antes de rondas",
+      "Se juega en primera persona",
+      "Una bomba se planta",
+      "Es un shooter competitivo",
+      "Valve lo desarrolló",
+      "Hay una desactivación",
+      "Una ciudad de México es un mapa",
+      "Es popular en esports",
+      "Un modo permite rescatar rehenes"
+    ]
+  },
+  {
+    "palabra": "Valorant",
+    "pistas": [
+      "Es un shooter táctico",
+      "Los personajes tienen habilidades",
+      "Riot Games lo creó",
+      "Se planta una carga",
+      "Una agente llamada Jett",
+      "Hay un sistema de rangos",
+      "Es gratuito",
+      "Se juega cinco contra cinco",
+      "Una agente es una cazadora",
+      "Cada ronda empieza con una fase de compra de armas"
+    ]
+  },
+  {
+    "palabra": "Overwatch",
+    "pistas": [
+      "Héroes con poderes en equipos",
+      "Blizzard lo creó",
+      "Se capturan puntos y se empuja una carga",
+      "Una soldado tiene un casco rojo",
+      "Hay un gorila científico",
+      "Hay una ninja con espada",
+      "Es un shooter de héroes",
+      "Se vota por la mejor jugada",
+      "Una chica inglesa es Tracer",
+      "Un caballero alemán con un martillo cohete forma parte del plantel"
+    ]
+  },
+  {
+    "palabra": "Apex Legends",
+    "pistas": [
+      "Es un battle royale",
+      "Se juega en escuadrones de tres",
+      "Los personajes se llaman leyendas",
+      "Respawn lo creó",
+      "Se puede revivir a un compañero",
+      "Tiene un robot",
+      "Se usa un ping para comunicar",
+      "Es gratuito",
+      "Un mapa tiene una gran ciudad",
+      "Un anciano en una nave anuncia a los campeones"
+    ]
+  },
+  {
+    "palabra": "Roblox",
+    "pistas": [
+      "Es una plataforma de juegos creados por usuarios",
+      "Los jugadores usan avatares cuadrados",
+      "Una moneda se llama Robux",
+      "Es popular entre niños",
+      "Se puede programar con Lua",
+      "Tiene mundos de todo tipo",
+      "Se creó en 2006",
+      "Hay \"tycoons\"",
+      "Hay un sonido famoso de \"oof\"",
+      "Los juegos de mascotas y de obstáculos son muy populares"
+    ]
+  },
+  {
+    "palabra": "Tetris",
+    "pistas": [
+      "Caen bloques de formas geométricas",
+      "Se forman líneas completas",
+      "Se creó en la Unión Soviética",
+      "Es un rompecabezas",
+      "Una melodía rusa es famosa",
+      "Las piezas se llaman tetrominós",
+      "Un jugador va acelerando",
+      "Es uno de los más vendidos",
+      "La pantalla se llena si se falla",
+      "La pieza larga y recta es la más codiciada"
+    ]
+  },
+  {
+    "palabra": "Pac-Man",
+    "pistas": [
+      "Un círculo amarillo come puntos",
+      "Cuatro fantasmas lo persiguen",
+      "Tiene un laberinto",
+      "Come frutas",
+      "Un chicle fue su inspiración, según la leyenda",
+      "Es de Namco",
+      "Aparece en máquinas arcade",
+      "Hay píldoras que cambian roles",
+      "Su sonido es \"wakka wakka\"",
+      "Al comer un punto grande los fantasmas se vuelven azules"
+    ]
+  },
+  {
+    "palabra": "Sonic",
+    "pistas": [
+      "Un erizo azul muy veloz",
+      "Recoge anillos",
+      "Un villano de bigote es un científico",
+      "Es de Sega",
+      "Tiene un amigo zorro de dos colas",
+      "Se enrolla como una bola",
+      "Su rival rojo es un equidna",
+      "Esmeraldas son clave",
+      "Un nombre repetido en una película",
+      "Su primer mundo se llama Green Hill"
+    ]
+  },
+  {
+    "palabra": "Street Fighter",
+    "pistas": [
+      "Es un juego de peleas",
+      "Un luchador de pelo blanco y bandana",
+      "Una cónsul de China",
+      "Un hadouken es su ataque famoso",
+      "Un luchador de camisa roja",
+      "Es de Capcom",
+      "Hay un luchador de sumo",
+      "Se dice \"perfect\"",
+      "Tiene varias entregas",
+      "Dos de sus luchadores comparten una bola de energía"
+    ]
+  },
+  {
+    "palabra": "Mortal Kombat",
+    "pistas": [
+      "Juego de lucha muy violento",
+      "Termina con \"fatalities\"",
+      "Hay un dragón en el logo",
+      "Un ninja amarillo y otro azul",
+      "Hay un torneo de reinos",
+      "Un grito dice \"terminalo\"",
+      "Hay dos luchadores de hielo y fuego",
+      "Hay ninjas con máscara",
+      "Se escribe con K",
+      "Un jefe de cuatro brazos es Goro"
+    ]
+  },
+  {
+    "palabra": "Resident Evil",
+    "pistas": [
+      "Un virus crea zombis",
+      "Una mansión es el inicio",
+      "Se juega con terror y escasas balas",
+      "Se enfrentan a una corporación llamada Umbrella",
+      "Hay una máquina de escribir para guardar",
+      "Es de Capcom",
+      "Hay hierbas verdes que curan",
+      "Hay un tirano",
+      "Un policía llamado Leon",
+      "Gran parte de la trama ocurre en Raccoon City"
+    ]
+  },
+  {
+    "palabra": "Silent Hill",
+    "pistas": [
+      "Un pueblo envuelto en niebla",
+      "Un juego de terror psicológico",
+      "Una sirena indica el cambio de mundo",
+      "Un monstruo con pirámide en la cabeza",
+      "Un padre busca a su hija",
+      "Es de Konami",
+      "Una radio emite ruido cuando hay peligro",
+      "Hay un mundo oxidado",
+      "Unas enfermeras sin rostro caminan de forma extraña",
+      "Su banda sonora fue compuesta por Akira Yamaoka"
+    ]
+  },
+  {
+    "palabra": "Dark Souls",
+    "pistas": [
+      "Es muy difícil",
+      "Se muere con frecuencia",
+      "Se recuperan almas perdidas",
+      "Hay hogueras para descansar",
+      "Es de FromSoftware",
+      "Un caballero enfrenta jefes enormes",
+      "Un mundo está interconectado",
+      "Un símbolo es \"alabado sea el sol\"",
+      "Un mensaje en el suelo ayuda",
+      "Un jefe enorme es un dragón de piedra"
+    ]
+  },
+  {
+    "palabra": "Elden Ring",
+    "pistas": [
+      "Es un mundo abierto de FromSoftware",
+      "Un autor de Canción de Hielo y Fuego escribió su mitología",
+      "Un árbol dorado es símbolo",
+      "Un jugador es un \"sinluz\"",
+      "Hay un caballo espectral",
+      "Hay jefes muy difíciles",
+      "Los semidioses gobiernan",
+      "Se gana runas",
+      "Un anillo roto es el centro del conflicto",
+      "Su mundo se llama Las Tierras Intermedias"
+    ]
+  },
+  {
+    "palabra": "Cyberpunk 2077",
+    "pistas": [
+      "Sucede en Night City",
+      "Un mercenario tiene un chip",
+      "Keanu Reeves interpreta a un personaje",
+      "Una compañía polaca lo creó",
+      "Su lanzamiento tuvo muchos errores",
+      "Se juega en primera persona",
+      "Hay implantes cibernéticos",
+      "Un mercenario conduce coches deportivos futuristas",
+      "Tiene un anime derivado",
+      "El protagonista se llama V"
+    ]
+  },
+  {
+    "palabra": "Assassin's Creed",
+    "pistas": [
+      "Asesinos con hojas ocultas",
+      "Un salto de fe",
+      "Se vive la memoria de ancestros",
+      "Una máquina llamada Animus",
+      "Se ambienta en épocas históricas",
+      "Es de Ubisoft",
+      "Se trepa a torres",
+      "Un águila sirve de explorador",
+      "Hay una orden de templarios",
+      "Su lema dice que nada es verdad y todo está permitido"
+    ]
+  },
+  {
+    "palabra": "Far Cry",
+    "pistas": [
+      "Se juega en islas o regiones exóticas",
+      "Un villano carismático es famoso",
+      "Es de Ubisoft",
+      "Es un shooter de mundo abierto",
+      "Se doman animales",
+      "Se capturan puestos de avanzada",
+      "Un villano llamado Vaas define la locura",
+      "Se queman campos",
+      "Hay un grito sobre la locura",
+      "Una isla tropical es el escenario del primer juego"
+    ]
+  },
+  {
+    "palabra": "Halo",
+    "pistas": [
+      "Un soldado con armadura verde",
+      "Un cyborg llamado Jefe Maestro",
+      "Una inteligencia artificial azul es su compañera",
+      "Es un shooter",
+      "Se llama igual que un anillo",
+      "Es de Bungie",
+      "Un pacto de alienígenas lo ataca",
+      "Fue exclusivo de Xbox",
+      "Un vehículo se llama Warthog",
+      "Su música incluye un coro de estilo gregoriano"
+    ]
+  },
+  {
+    "palabra": "Metal Gear Solid",
+    "pistas": [
+      "Un agente infiltrado",
+      "Una caja de cartón sirve para esconderse",
+      "Un soldado llamado Snake",
+      "Se juega con sigilo",
+      "Un signo de exclamación avisa al ser detectado",
+      "Lo creó Hideo Kojima",
+      "Hay robots gigantes",
+      "Se rompe la cuarta pared",
+      "Un general retirado",
+      "Un cigarro y una venda en el ojo definen a uno de sus héroes"
+    ]
+  },
+  {
+    "palabra": "Final Fantasy VII",
+    "pistas": [
+      "Un exsoldado con una espada gigante",
+      "Una mercenaria sufrió una famosa pérdida",
+      "Es un JRPG",
+      "Un villano de pelo plateado",
+      "Una compañía energética es la villana",
+      "Es de Square",
+      "Hay chocobos",
+      "Una flor es un símbolo",
+      "Un meteoro amenaza el planeta",
+      "Su banda sonora fue compuesta por Nobuo Uematsu"
+    ]
+  },
+  {
+    "palabra": "Kingdom Hearts",
+    "pistas": [
+      "Mezcla Disney con Final Fantasy",
+      "Un niño usa una espada llave",
+      "Una unión de personajes de Mickey",
+      "Es de Square y Disney",
+      "Hay mundos de películas",
+      "Hay sombras sin corazón",
+      "Es un RPG de acción",
+      "Sora es el protagonista",
+      "Hay un pato mago",
+      "Un mundo de Halloween es uno de sus escenarios"
+    ]
+  },
+  {
+    "palabra": "Animal Crossing",
+    "pistas": [
+      "Un aldeano llega a una isla",
+      "Un mapache vende cosas",
+      "Se pagan hipotecas",
+      "Se pescan peces y se atrapan insectos",
+      "Tus vecinos son criaturas parlantes de todo tipo",
+      "El tiempo coincide con el real",
+      "Hay estaciones y días especiales",
+      "Es relajante",
+      "Es de Nintendo",
+      "Un búho dirige el museo"
+    ]
+  },
+  {
+    "palabra": "Los Sims",
+    "pistas": [
+      "Se controla la vida de personas virtuales",
+      "Se construyen casas",
+      "Un diamante verde flota sobre su cabeza",
+      "Hablan en un idioma inventado",
+      "Pueden morir de formas absurdas",
+      "Hay una barra de necesidades",
+      "Un modo de construcción",
+      "Es de Maxis",
+      "Hay un código para ser rico",
+      "Se puede teclear un truco con la palabra Rosebud"
+    ]
+  },
+  {
+    "palabra": "Candy Crush",
+    "pistas": [
+      "Se combinan golosinas",
+      "Es un juego móvil",
+      "Hay vidas limitadas",
+      "Se avanza por niveles",
+      "Es de King",
+      "Una voz dice \"delicioso\"",
+      "Hay una estrella de bonus",
+      "Se hizo viral en Facebook",
+      "Se mezclan tres o más",
+      "Un tablero tiene caramelos con rayas especiales"
+    ]
+  },
+  {
+    "palabra": "Angry Birds",
+    "pistas": [
+      "Aves lanzadas contra cerdos",
+      "Se usa una honda",
+      "Es un juego móvil",
+      "Hay estructuras de madera y vidrio",
+      "Es de una empresa finlandesa",
+      "Un ave amarilla se acelera",
+      "Tiene películas",
+      "Hay un ave negra que explota",
+      "Un tirachinas es el instrumento",
+      "Un huevo robado inicia la historia"
+    ]
+  },
+  {
+    "palabra": "Clash of Clans",
+    "pistas": [
+      "Se construye una aldea",
+      "Hay bárbaros y arqueros",
+      "Se une a un clan",
+      "Es de Supercell",
+      "Se atacan otras aldeas",
+      "Se recolectan oro y elixir",
+      "Es un juego móvil",
+      "Hay un rey bárbaro",
+      "Hay un ayuntamiento",
+      "Las guerras entre clanes se celebran por turnos"
+    ]
+  },
+  {
+    "palabra": "Genshin Impact",
+    "pistas": [
+      "Un viajero busca a su hermano",
+      "Tiene elementos como fuego y agua",
+      "Es un mundo abierto de estilo anime",
+      "Es de miHoYo",
+      "Se juega en móvil y PC",
+      "Se compran deseos",
+      "Una criatura flotante es su compañera",
+      "Hay siete naciones",
+      "Se parece a un juego de Nintendo",
+      "Su mundo se llama Teyvat"
+    ]
+  },
+  {
+    "palabra": "Mario Kart",
+    "pistas": [
+      "Karts de personajes conocidos",
+      "Se lanzan caparazones",
+      "Hay cáscaras de banana",
+      "Tiene un circuito arcoíris",
+      "Un fantasma da un golpe",
+      "Es de Nintendo",
+      "Se compite en carreras",
+      "Se usan objetos",
+      "Un caparazón azul ataca al líder",
+      "Existe una versión para teléfonos móviles"
+    ]
+  },
+  {
+    "palabra": "Smash Bros",
+    "pistas": [
+      "Luchadores de diferentes juegos",
+      "Se sacan del escenario con golpes",
+      "Se acumula porcentaje de daño",
+      "Hay bolas inteligentes",
+      "Es de Nintendo",
+      "Un cuarteto puede jugar",
+      "Una bola blanca y roja se rompe",
+      "Aparecen invitados externos",
+      "Se elige entre muchos personajes",
+      "Una de sus entregas reúne a todos los luchadores anteriores"
+    ]
+  },
+  {
+    "palabra": "Doom",
+    "pistas": [
+      "Es un shooter de demonios",
+      "Se juega en primera persona",
+      "Un marine lucha en Marte",
+      "Su motor fue pionero",
+      "Su jefe es una cara con cuernos",
+      "Se puede correr en una calculadora",
+      "Es de id Software",
+      "Es muy violento",
+      "Es famoso por su escopeta",
+      "Su protagonista silencioso es un marine que casi nunca habla"
+    ]
+  },
+  {
+    "palabra": "Portal",
+    "pistas": [
+      "Se resuelven puzzles disparando aberturas conectadas",
+      "Una inteligencia artificial es antagonista",
+      "Una promesa es una torta",
+      "Un cubo acompañante tiene un corazón",
+      "Es de Valve",
+      "Se juega en primera persona",
+      "Una sala de pruebas",
+      "Se oye una canción final",
+      "La protagonista es Chell",
+      "Una secuela incorpora geles de colores"
+    ]
+  },
+  {
+    "palabra": "Half-Life",
+    "pistas": [
+      "Un físico con una palanca",
+      "Un accidente en un laboratorio abre un portal",
+      "Un hombre sin voz",
+      "Es de Valve",
+      "Un hombre misterioso de traje",
+      "Se juega en primera persona",
+      "Se usa una palanca como arma",
+      "Una ciudad es City 17",
+      "Un número que nunca llega a tres",
+      "Un monstruo con forma de cangrejo se pega a la cabeza"
+    ]
+  },
+  {
+    "palabra": "World of Warcraft",
+    "pistas": [
+      "Es un juego de rol masivo en línea",
+      "Dos facciones se enfrentan",
+      "Hay orcos y humanos",
+      "Es de Blizzard",
+      "Se paga por suscripción",
+      "Hay razas y clases",
+      "Hay mazmorras con jefes",
+      "Un mundo se llama Azeroth",
+      "Los jugadores forman hermandades",
+      "Entre sus razas jugables hay pandaren y goblins"
+    ]
+  },
+  {
+    "palabra": "Rocket League",
+    "pistas": [
+      "Es fútbol con coches",
+      "Los coches saltan y vuelan",
+      "Es de Psyonix",
+      "Hay explosiones",
+      "Se juega tres contra tres",
+      "Hay una pelota gigante",
+      "Es popular en esports",
+      "Los autos tienen turbo",
+      "Se pueden hacer goles aéreos",
+      "Existen modos de baloncesto y hockey"
+    ]
+  },
+  {
+    "palabra": "Hollow Knight",
+    "pistas": [
+      "Un caballero silencioso explora un reino de insectos",
+      "Es un metroidvania",
+      "Es de un estudio australiano",
+      "Su arte es dibujado a mano",
+      "Los jefes son difíciles",
+      "Hay un reino subterráneo",
+      "Su protagonista es un pequeño bichito",
+      "Se usa un aguijón",
+      "Una secuela se retrasó",
+      "Una ciudad de lluvia perpetua tiene una canción triste"
+    ]
+  }
+]

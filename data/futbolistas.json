@@ -1,0 +1,752 @@
+[
+  {
+    "palabra": "Lionel Messi",
+    "pistas": [
+      "Nació en Rosario",
+      "Dejó su país de niño para ser tratado de una condición de crecimiento",
+      "Se hizo famoso con un club catalán",
+      "Ganó el Mundial en Catar con su selección",
+      "Usa el número diez",
+      "Su pie izquierdo es legendario",
+      "Ha ganado más Balones de Oro que nadie",
+      "Cerró su carrera en una liga de Norteamérica",
+      "Su apodo es la Pulga",
+      "Un rival eterno es de Portugal"
+    ]
+  },
+  {
+    "palabra": "Cristiano Ronaldo",
+    "pistas": [
+      "Nació en la isla de Madeira",
+      "Es famoso por sus saltos y su físico",
+      "Ha ganado la Champions con varios clubes",
+      "Su celebración incluye un grito",
+      "Es el máximo goleador de la historia en partidos oficiales",
+      "Su dorsal es el siete",
+      "Jugó en un club inglés, uno español y uno italiano",
+      "Es capitán de su selección",
+      "Terminó su carrera en un club árabe",
+      "Popularizó un grito de celebración con un salto"
+    ]
+  },
+  {
+    "palabra": "Diego Maradona",
+    "pistas": [
+      "Nació en un barrio humilde de Buenos Aires",
+      "Marcó un gol con la mano en un Mundial",
+      "Marcó otro después de driblar a media selección",
+      "Llevó a un club italiano del sur a ser campeón",
+      "Fue campeón del mundo en 1986",
+      "Tuvo un famoso apodo religioso",
+      "Usaba el número diez",
+      "Falleció en 2020",
+      "Entrenó también a su selección",
+      "Una iglesia humorística lleva su nombre"
+    ]
+  },
+  {
+    "palabra": "Pelé",
+    "pistas": [
+      "Nació en una ciudad brasileña de Minas Gerais",
+      "Ganó tres mundiales",
+      "Se hizo famoso con 17 años",
+      "Jugó casi toda su carrera en un club de Santos",
+      "Se le llamaba O Rei",
+      "Marcó más de mil goles según algunas cuentas",
+      "Fue nombrado ministro de deportes",
+      "Su verdadero nombre es Edson Arantes",
+      "Una famosa chilena es suya",
+      "Según una leyenda, detuvo una guerra civil con su visita a África"
+    ]
+  },
+  {
+    "palabra": "Kylian Mbappé",
+    "pistas": [
+      "Nació en las afueras de París",
+      "Es famoso por su velocidad",
+      "Marcó tres goles en una final del mundo",
+      "Ganó con su selección en 2018",
+      "Jugó en un club de la capital francesa antes de ir a España",
+      "Su dorsal suele ser el diez o el nueve",
+      "Rechazó ofertas durante años",
+      "Ganó una Copa del Mundo siendo adolescente",
+      "Su selección usa un gallo en el escudo",
+      "Su madre fue jugadora de balonmano y su padre entrenador"
+    ]
+  },
+  {
+    "palabra": "Neymar",
+    "pistas": [
+      "Nació en São Paulo",
+      "Famoso por sus regates y bailes",
+      "Fichó por el club catalán de Messi",
+      "Se convirtió en el fichaje más caro de la historia",
+      "Su selección lo tiene como un gran goleador",
+      "Se tiñe el cabello a menudo",
+      "Jugó en un equipo de Arabia Saudita",
+      "Ganó un oro olímpico en su país",
+      "Su dorsal más usado es el diez",
+      "Su padre ha sido clave en sus negociaciones"
+    ]
+  },
+  {
+    "palabra": "Zinedine Zidane",
+    "pistas": [
+      "Nació en Marsella de familia argelina",
+      "Fue campeón del mundo como jugador en 1998",
+      "Fue expulsado en una final por un cabezazo",
+      "Entrenó a un club blanco y ganó tres Champions seguidas",
+      "Su elegancia con el balón era famosa",
+      "Jugó en Turín y Madrid",
+      "Su apodo es Zizou",
+      "Tiene un famoso giro llamado ruleta",
+      "Marcó dos goles de cabeza en una final",
+      "Entrenó primero a un filial antes de dirigir al primer equipo"
+    ]
+  },
+  {
+    "palabra": "Ronaldinho",
+    "pistas": [
+      "Sonreía mucho en la cancha",
+      "Su apodo es el diminutivo de un famoso delantero",
+      "Jugó en París, Barcelona y Milán",
+      "Ganó el Mundial de 2002",
+      "Era célebre por sus regates con goma",
+      "Usaba el número diez",
+      "Nació en Porto Alegre",
+      "Ganó el Balón de Oro en 2005",
+      "Marcó un golazo de tiro libre al guardameta inglés en 2002",
+      "Su gesto de saludo con la mano en forma de hang loose es famoso"
+    ]
+  },
+  {
+    "palabra": "Ronaldo Nazário",
+    "pistas": [
+      "Fue delantero de un club holandés, uno español y uno italiano",
+      "Marcó dos goles en la final de Corea y Japón",
+      "Es llamado el Fenómeno",
+      "Tuvo graves lesiones de rodilla",
+      "Es dueño de equipos de fútbol",
+      "Ganó dos mundiales",
+      "Jugó en el Barça y el Real Madrid",
+      "Usaba el número nueve",
+      "Era famoso por su potencia y su velocidad",
+      "En 2002 lució un peinado con un triángulo de pelo en la frente"
+    ]
+  },
+  {
+    "palabra": "Johan Cruyff",
+    "pistas": [
+      "Nació en Ámsterdam",
+      "Dio nombre a un famoso giro",
+      "Lideró un equipo con fútbol total",
+      "Entrenó al Barça y fue figura allí",
+      "Usaba el número catorce",
+      "Fue tres veces ganador del Balón de Oro",
+      "Llevó a su selección a una final mundial",
+      "Jugó en Ajax y Barcelona",
+      "Fue un revolucionario del juego",
+      "Un famoso giro lleva su apellido"
+    ]
+  },
+  {
+    "palabra": "Franz Beckenbauer",
+    "pistas": [
+      "Se le llamó el Káiser",
+      "Jugaba de líbero",
+      "Ganó un Mundial como jugador y otro como entrenador",
+      "Nació en Múnich",
+      "Jugó en Bayern y en Nueva York",
+      "Capitaneó a su selección",
+      "Su elegancia en defensa era única",
+      "Fue presidente del club bávaro",
+      "Falleció en 2024",
+      "Su posición, el barredor, hoy casi ha desaparecido"
+    ]
+  },
+  {
+    "palabra": "Michel Platini",
+    "pistas": [
+      "Francés de ascendencia italiana",
+      "Tuvo tres Balones de Oro seguidos",
+      "Jugó en Turín",
+      "Fue presidente de la UEFA",
+      "Era un mediocampista creativo",
+      "Su selección ganó la Eurocopa en 1984",
+      "Marcó una cantidad de goles en un solo torneo",
+      "Cobraba faltas con maestría",
+      "Fue entrenador de su selección",
+      "En la Eurocopa de 1984 fue máximo goleador absoluto"
+    ]
+  },
+  {
+    "palabra": "Zlatan Ibrahimović",
+    "pistas": [
+      "Nació en Malmö",
+      "Practicó artes marciales",
+      "Es muy arrogante en sus declaraciones",
+      "Jugó en París, Milán y Manchester",
+      "Su selección es nórdica",
+      "Fue famoso por un gol acrobático desde lejos",
+      "Se retiró con más de cuarenta años",
+      "Mide casi dos metros",
+      "Se refiere a sí mismo en tercera persona",
+      "Se tatuó nombres de personas que sufren hambre"
+    ]
+  },
+  {
+    "palabra": "Luka Modrić",
+    "pistas": [
+      "Nació en Zadar",
+      "Es croata",
+      "Ganó el Balón de Oro rompiendo la hegemonía de dos",
+      "Jugó muchos años en un club blanco",
+      "Fue finalista del Mundial en 2018",
+      "Juega de mediocentro",
+      "Fue refugiado en su infancia",
+      "Es de pocas palabras pero de mucho talento",
+      "Mantuvo el nivel pasados los treinta y siete",
+      "Su selección jugó varias prórrogas en el Mundial de 2018"
+    ]
+  },
+  {
+    "palabra": "Robert Lewandowski",
+    "pistas": [
+      "Nació en Varsovia",
+      "Fue goleador en Alemania",
+      "Cambió Munich por Barcelona",
+      "Marcó cinco goles en nueve minutos",
+      "Su selección está en Europa del este",
+      "Es un delantero centro",
+      "Ganó el premio de Mejor Jugador de la FIFA",
+      "Es muy disciplinado con su alimentación",
+      "Su dorsal es el nueve",
+      "Su esposa es una experta en karate y nutrición"
+    ]
+  },
+  {
+    "palabra": "Erling Haaland",
+    "pistas": [
+      "Es hijo de un exfutbolista",
+      "Nació en Leeds",
+      "Juega con una selección nórdica",
+      "Es muy alto y muy rápido",
+      "Marcó muchísimos goles en su primera temporada en Inglaterra",
+      "Jugó en Dortmund",
+      "Su celebración es meditar",
+      "Juega de nueve",
+      "Usa el número nueve",
+      "Su madre fue atleta de heptatlón"
+    ]
+  },
+  {
+    "palabra": "Kevin De Bruyne",
+    "pistas": [
+      "Es belga",
+      "Se destaca por sus pases",
+      "Ganó muchos títulos con un club celeste de Inglaterra",
+      "Su cabello es pelirrojo",
+      "Juega de mediocampista ofensivo",
+      "Nació en Drongen",
+      "Su selección es de Bélgica",
+      "Jugó en Chelsea y Wolfsburgo",
+      "Se ha operado varias veces",
+      "Su apodo se reduce a tres iniciales"
+    ]
+  },
+  {
+    "palabra": "Mohamed Salah",
+    "pistas": [
+      "Es egipcio",
+      "Jugó en Roma",
+      "Es un extremo muy veloz",
+      "Juega en un club inglés de rojo",
+      "Es llamado el Rey Egipcio",
+      "Fue campeón de la Premier",
+      "Su celebración es de rodillas",
+      "Su selección lleva el apodo de faraones",
+      "Su dorsal es el once",
+      "Fue el primer egipcio en ganar la Bota de Oro inglesa"
+    ]
+  },
+  {
+    "palabra": "Sergio Ramos",
+    "pistas": [
+      "Es español y juega de defensor",
+      "Marcó un gol de cabeza al final de una Champions",
+      "Fue campeón del mundo en 2010",
+      "Jugó con Real Madrid y PSG",
+      "Es famoso por sus tarjetas",
+      "Capitán durante años",
+      "Nació en Camas, Sevilla",
+      "Su dorsal clásico es el cuatro",
+      "Es un goleador defensivo",
+      "Es famoso por acumular tarjetas rojas en clásicos"
+    ]
+  },
+  {
+    "palabra": "Iker Casillas",
+    "pistas": [
+      "Fue arquero",
+      "Se le apodó el Santo por sus paradas milagrosas",
+      "Ganó el Mundial de 2010",
+      "Su cabello era corto y su carácter tranquilo",
+      "Fue capitán de España",
+      "Jugó casi toda su carrera en Madrid",
+      "Terminó en Portugal",
+      "Fue ganador de la Champions tres veces",
+      "Nació en Móstoles",
+      "En el Mundial de 2010 encajó muy pocos goles"
+    ]
+  },
+  {
+    "palabra": "Andrés Iniesta",
+    "pistas": [
+      "Jugó en un club catalán",
+      "Marcó el gol de la final del Mundial 2010",
+      "Su pelo escaso es característico",
+      "Nació en Albacete",
+      "Es un mediocampista de gran visión",
+      "Se mudó a Japón",
+      "Ganó muchos títulos con un equipo de blaugrana",
+      "Es tímido",
+      "Era compañero de Xavi",
+      "Se le recuerda por una camiseta con un mensaje a un amigo fallecido"
+    ]
+  },
+  {
+    "palabra": "Xavi Hernández",
+    "pistas": [
+      "Jugó junto a Iniesta",
+      "Fue campeón del Mundial 2010",
+      "Entrenó a su antiguo club",
+      "Es un mediocampista de pases perfectos",
+      "Jugó en Catar",
+      "Nació en Terrassa",
+      "Dirigió el juego del tiki-taka",
+      "Fue capitán",
+      "Su dorsal fue el seis",
+      "Fue el ídolo del pase corto y la posesión"
+    ]
+  },
+  {
+    "palabra": "Thierry Henry",
+    "pistas": [
+      "Es francés",
+      "Jugó en Londres con un equipo rojo",
+      "Ganó el Mundial 98",
+      "Es muy elegante al definir",
+      "Su dorsal fue el catorce",
+      "Jugó con Barcelona",
+      "Marcó mucho con la camiseta del Arsenal",
+      "Nació en París",
+      "Una famosa mano suya clasificó a su selección",
+      "Una estatua suya está frente a un estadio de Londres"
+    ]
+  },
+  {
+    "palabra": "Paolo Maldini",
+    "pistas": [
+      "Defensor italiano",
+      "Jugó toda su carrera en un solo club",
+      "Su padre también fue capitán del mismo club",
+      "Jugó en Milán",
+      "Usó el número tres",
+      "Nunca ganó un Mundial",
+      "Ganó cinco Champions",
+      "Fue figura en defensa durante más de veinte años",
+      "Su hijo continuó la tradición",
+      "Su club retiró su número tres"
+    ]
+  },
+  {
+    "palabra": "Gianluigi Buffon",
+    "pistas": [
+      "Arquero italiano",
+      "Jugó en Parma y Turín",
+      "Fue campeón del mundo en 2006",
+      "Jugó con cuarenta años",
+      "Tiene un largo récord sin recibir goles",
+      "Su dorsal es el uno",
+      "Fue el portero más caro durante años",
+      "Jugó en París por un tiempo",
+      "Se destaca por su liderazgo",
+      "Es conocido por su carisma y su sentido del humor"
+    ]
+  },
+  {
+    "palabra": "Andrea Pirlo",
+    "pistas": [
+      "Mediocampista italiano",
+      "Su barba es característica",
+      "Marcó un tiro libre fenomenal",
+      "Hizo un penal \"cuchara\"",
+      "Ganó el Mundial de 2006",
+      "Jugó en Milán y Turín",
+      "Se le llamaba el Arquitecto",
+      "Su calma era famosa",
+      "Nació en Flero",
+      "Era famoso por lanzar pases largos con precisión milimétrica"
+    ]
+  },
+  {
+    "palabra": "Francesco Totti",
+    "pistas": [
+      "Jugó toda su carrera en Roma",
+      "Su apodo era el Gladiador",
+      "Fue campeón del mundo en 2006",
+      "Hizo una famosa \"cuchara\" en una semifinal de Eurocopa",
+      "Su dorsal fue el diez",
+      "Se casó con una famosa presentadora",
+      "Nació en la capital italiana",
+      "Fue capitán",
+      "Rechazó ofertas de grandes clubes",
+      "Una vez mostró una camiseta con un mensaje para su esposa tras marcar"
+    ]
+  },
+  {
+    "palabra": "David Beckham",
+    "pistas": [
+      "Inglés famoso por sus tiros libres",
+      "Jugó en Madrid, Manchester y Los Ángeles",
+      "Su esposa fue una cantante",
+      "Fue capitán de su selección",
+      "Tiene un famoso tatuaje de su familia",
+      "Fue ícono de moda",
+      "Su dorsal fue el siete",
+      "Jugó en París",
+      "Es dueño de un equipo de Miami",
+      "Su peinado de cresta marcó una época"
+    ]
+  },
+  {
+    "palabra": "Wayne Rooney",
+    "pistas": [
+      "Inglés de Liverpool",
+      "Máximo goleador histórico de su club rojo",
+      "Se inició en el Everton",
+      "Jugó con Manchester United",
+      "Su estilo era físico",
+      "Terminó en Estados Unidos",
+      "Fue capitán de su selección",
+      "Es entrenador",
+      "Debutó muy joven",
+      "Se sometió a un implante capilar"
+    ]
+  },
+  {
+    "palabra": "Harry Kane",
+    "pistas": [
+      "Delantero inglés",
+      "Capitán de su selección",
+      "Jugó en Londres antes de ir a Alemania",
+      "Es goleador histórico de Inglaterra",
+      "Nació en Walthamstow",
+      "Ganó la Bota de Oro en el Mundial 2018",
+      "Jugó en Spurs",
+      "Marcó mucho de penal",
+      "Su club alemán es de Baviera",
+      "Su apodo evoca un fenómeno atmosférico"
+    ]
+  },
+  {
+    "palabra": "Luis Suárez",
+    "pistas": [
+      "Uruguayo y goleador",
+      "Mordió a un rival en un Mundial",
+      "Jugó en Ámsterdam, Liverpool y Barcelona",
+      "Fue compañero de Messi",
+      "Su apodo es el Pistolero",
+      "Nació en Salto",
+      "Atajó un balón con la mano en un Mundial",
+      "Terminó en Miami",
+      "Su celebración es con la boca en el pulgar",
+      "Se formó en un club de Montevideo antes de cruzar el océano"
+    ]
+  },
+  {
+    "palabra": "Edinson Cavani",
+    "pistas": [
+      "Delantero uruguayo",
+      "Jugó en París",
+      "Su cabello largo es característico",
+      "Marcó muchos goles de cabeza",
+      "Nació en Salto",
+      "Jugó en Nápoles",
+      "Es tenaz y luchador",
+      "Se le llama el Matador",
+      "Terminó en Argentina",
+      "Su compañero de ataque en la selección también es de su ciudad natal"
+    ]
+  },
+  {
+    "palabra": "Radamel Falcao",
+    "pistas": [
+      "Colombiano",
+      "Jugó en Madrid y Mónaco",
+      "Su apodo es el Tigre",
+      "Nació en Santa Marta",
+      "Un goleador de cabeza",
+      "Tuvo una grave lesión de rodilla",
+      "Jugó en Atlético de Madrid",
+      "Su dorsal es el nueve",
+      "Su selección usa amarillo",
+      "Su apodo es el nombre de un felino"
+    ]
+  },
+  {
+    "palabra": "James Rodríguez",
+    "pistas": [
+      "Mediocampista colombiano",
+      "Ganó el premio al mejor gol en 2014",
+      "Fue goleador del Mundial de Brasil 2014",
+      "Jugó en el Real Madrid",
+      "Nació en Cúcuta",
+      "Es zurdo",
+      "Su apodo es el diez",
+      "Fue campeón de la Libertadores",
+      "Su paso por el Bayern fue breve",
+      "Su nombre se pronuncia a la inglesa"
+    ]
+  },
+  {
+    "palabra": "Carlos Valderrama",
+    "pistas": [
+      "Colombiano de cabello rubio rizado",
+      "Fue creativo y pausado",
+      "Su apodo es el Pibe",
+      "Nació en Santa Marta",
+      "Jugó en Estados Unidos",
+      "Fue capitán de su selección",
+      "Jugó en el Mundial de 1990",
+      "Su melena es inconfundible",
+      "Jugó en Montpellier",
+      "Una estatua suya está en una ciudad costera de su país"
+    ]
+  },
+  {
+    "palabra": "Alexis Sánchez",
+    "pistas": [
+      "Chileno",
+      "Jugó en Londres y en Milán",
+      "Fue figura en dos Copas América",
+      "Se le llamó Niño Maravilla",
+      "Nació en Tocopilla",
+      "Jugó en Udinese",
+      "Su selección es La Roja",
+      "Es un extremo veloz",
+      "Jugó en Barcelona",
+      "Es conocido por correr y presionar sin descanso"
+    ]
+  },
+  {
+    "palabra": "Arturo Vidal",
+    "pistas": [
+      "Chileno",
+      "Jugó en Turín y en Múnich",
+      "Es un mediocampista aguerrido",
+      "Nació en Santiago",
+      "Es famoso por su pelo y tatuajes",
+      "Ganó dos Copas América",
+      "Su apodo evoca a un legendario monarca de la mesa redonda",
+      "Jugó en Barcelona",
+      "Su estilo es de lucha",
+      "Es famoso por su pasión y sus ataques de furia"
+    ]
+  },
+  {
+    "palabra": "Gerard Piqué",
+    "pistas": [
+      "Defensor catalán",
+      "Fue campeón del mundo con España",
+      "Su pareja fue una cantante colombiana",
+      "Es dueño de una liga de fútbol de siete",
+      "Jugó en Manchester United antes de volver",
+      "Fue compañero de Messi",
+      "Dejó de jugar en 2022",
+      "Nació en Barcelona",
+      "Se retiró con una cena junto a su club",
+      "Su equipo ganó seis títulos en un solo año"
+    ]
+  },
+  {
+    "palabra": "Karim Benzema",
+    "pistas": [
+      "Delantero francés",
+      "Ganó el Balón de Oro en 2022",
+      "Jugó en Lyon",
+      "Su compañero fue Cristiano",
+      "Jugó en Madrid",
+      "Nació en Lyon",
+      "Fue goleador en Champions",
+      "Su familia es argelina",
+      "Terminó en Arabia",
+      "Fue clave en la Champions de 2022 con varios hat-tricks"
+    ]
+  },
+  {
+    "palabra": "Sadio Mané",
+    "pistas": [
+      "Senegalés",
+      "Jugó en Liverpool",
+      "Un extremo veloz",
+      "Nació en Bambali",
+      "Ganó la Copa Africana",
+      "Jugó en Múnich",
+      "Es muy humilde",
+      "Construyó una escuela y hospitales",
+      "Terminó en Arabia",
+      "Marcó el penal decisivo en una final de Copa Africana"
+    ]
+  },
+  {
+    "palabra": "Vinícius Júnior",
+    "pistas": [
+      "Extremo brasileño",
+      "Juega en Madrid",
+      "Hizo un gol en una final de Champions",
+      "Su celebración es bailar",
+      "Nació en São Gonçalo",
+      "Es muy veloz",
+      "Ha sufrido insultos racistas en estadios",
+      "Usa el siete",
+      "Sus regates son muy rápidos",
+      "Se formó en el Flamengo"
+    ]
+  },
+  {
+    "palabra": "Lamine Yamal",
+    "pistas": [
+      "Extremo español muy joven",
+      "Juega en Barcelona",
+      "Debutó con quince años",
+      "Marcó un golazo en una semifinal de Eurocopa",
+      "Es de familia marroquí",
+      "Usa el número diecinueve y luego diez",
+      "Nació en Esplugues de Llobregat",
+      "Es zurdo",
+      "Ganó una Eurocopa antes de la mayoría de edad",
+      "Fue el goleador más joven de la historia de su selección"
+    ]
+  },
+  {
+    "palabra": "Jude Bellingham",
+    "pistas": [
+      "Mediocampista inglés",
+      "Jugó en Dortmund",
+      "Ahora juega en Madrid",
+      "Es muy joven",
+      "Nació en Stourbridge",
+      "Marca en momentos clave",
+      "Su celebración es con los brazos abiertos",
+      "Su hermano también juega",
+      "Su dorsal es el cinco",
+      "Fue campeón de la Champions en 2024"
+    ]
+  },
+  {
+    "palabra": "Paulo Dybala",
+    "pistas": [
+      "Delantero argentino",
+      "Nació en Laguna Larga",
+      "Su celebración es la máscara",
+      "Jugó en Turín",
+      "Jugó en Roma",
+      "Es zurdo",
+      "Ganó el Mundial 2022",
+      "Su apodo es la Joya",
+      "Jugó en Palermo",
+      "Es hijo de un agricultor y tiene ascendencia polaca"
+    ]
+  },
+  {
+    "palabra": "Ángel Di María",
+    "pistas": [
+      "Extremo argentino",
+      "Su apodo es el Fideo",
+      "Nació en Rosario",
+      "Marcó en la final de 2022",
+      "Jugó en Madrid, París y Turín",
+      "Ganó un oro olímpico",
+      "Es zurdo",
+      "Regresó a su club de origen",
+      "Es muy rápido",
+      "Marcó de vaselina en la final de la Copa América 2021"
+    ]
+  },
+  {
+    "palabra": "Sergio Agüero",
+    "pistas": [
+      "Delantero argentino",
+      "Marcó un gol en el último minuto de la liga inglesa",
+      "Su apodo es el Kun",
+      "Jugó en Manchester",
+      "Se retiró por un problema cardíaco",
+      "Fue yerno de Maradona",
+      "Nació en Quilmes",
+      "Jugó en Barcelona",
+      "Fue capitán en Independiente",
+      "Marcó su gol decisivo en el minuto 93:20"
+    ]
+  },
+  {
+    "palabra": "Gabriel Batistuta",
+    "pistas": [
+      "Argentino",
+      "Su apodo es Batigol",
+      "Jugó en Florencia",
+      "Marcó muchísimos goles",
+      "Jugó en Roma",
+      "Su melena era larga",
+      "Ganó la Copa América",
+      "Su rodilla sufrió por tanto jugar",
+      "Nació en Reconquista",
+      "Una estatua suya está en Florencia"
+    ]
+  },
+  {
+    "palabra": "Roberto Baggio",
+    "pistas": [
+      "Italiano",
+      "Su coleta era famosa",
+      "Falló un penal en una final mundial",
+      "Jugó en Florencia y Turín",
+      "Se le llamaba el Divino Codino",
+      "Usó el número diez",
+      "Fue Balón de Oro en 1993",
+      "Era budista",
+      "Marcó en tres Mundiales",
+      "Era conocido por su espiritualidad y su moño"
+    ]
+  },
+  {
+    "palabra": "Kaká",
+    "pistas": [
+      "Es brasileño",
+      "Fue Balón de Oro en 2007",
+      "Jugó en Milán y en Madrid",
+      "Es evangélico y muy creyente",
+      "Su nombre completo empieza con Ricardo",
+      "Fue campeón del mundo en 2002",
+      "Era elegante y veloz con la pelota",
+      "Cerró su carrera en el Orlando City",
+      "Jugaba de mediocampista ofensivo",
+      "Su apodo surge de cómo su hermano menor decía su nombre"
+    ]
+  },
+  {
+    "palabra": "Samuel Eto'o",
+    "pistas": [
+      "Es camerunés",
+      "Marcó en dos finales de Champions con el Barça",
+      "Ganó un triplete con el Inter",
+      "Es el máximo goleador histórico de la Copa Africana",
+      "Jugó en Mallorca y en Barcelona",
+      "Fue compañero de Messi",
+      "Ganó el Pichichi en España",
+      "Cobró un sueldo altísimo en Rusia",
+      "Hoy preside la federación de su país",
+      "Ganó el oro olímpico en el año 2000"
+    ]
+  }
+]

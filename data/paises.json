@@ -1,0 +1,752 @@
+[
+  {
+    "palabra": "Argentina",
+    "pistas": [
+      "Su selección ganó la copa del mundo en 2022",
+      "Tiene una cordillera enorme en su frontera oeste",
+      "Allí se toma una infusión con bombilla",
+      "Su capital está junto a un gran estuario",
+      "Tiene glaciares en el extremo sur",
+      "La carne asada es parte de su identidad",
+      "Un baile de pareja nacido en sus barrios es su emblema",
+      "Es de los países más extensos de su continente",
+      "Comparte unas cataratas gigantes con su vecino del norte",
+      "Su moneda se llama peso"
+    ]
+  },
+  {
+    "palabra": "Brasil",
+    "pistas": [
+      "Es el país más grande de su continente",
+      "Allí se habla portugués",
+      "Su carnaval es famoso en todo el mundo",
+      "Contiene la mayor selva tropical del planeta",
+      "Una estatua con los brazos abiertos vigila una de sus ciudades",
+      "Su selección ostenta cinco estrellas",
+      "Su capital fue construida desde cero en el interior",
+      "Produce enormes cantidades de café",
+      "Una lucha disfrazada de baile nació allí",
+      "Sus playas son consideradas de las más bellas"
+    ]
+  },
+  {
+    "palabra": "México",
+    "pistas": [
+      "Su gastronomía es patrimonio de la humanidad",
+      "Aquí se celebra una fiesta dedicada a los difuntos",
+      "Los mayas y los aztecas dejaron pirámides en su territorio",
+      "Su bebida destilada de agave es famosa",
+      "Tiene frontera con la mayor potencia del norte",
+      "Allí nació un famoso picante llamado chile",
+      "Sus bandas de trompetas y guitarras recorren plazas",
+      "Su capital se levantó sobre un antiguo lago",
+      "Un águila sobre un nopal está en su bandera",
+      "Es el país hispanohablante con más habitantes"
+    ]
+  },
+  {
+    "palabra": "España",
+    "pistas": [
+      "Allí se corre delante de toros en una fiesta de julio",
+      "Un baile con zapateo y castañuelas es típico",
+      "Su gastronomía incluye arroz con mariscos en sartén ancha",
+      "Tiene una península compartida con otro país pequeño",
+      "Fue el centro de un antiguo imperio colonial",
+      "Su rey tiene un papel simbólico",
+      "Una gran catedral inacabada de un famoso arquitecto está en su costa este",
+      "Tiene islas en el Atlántico y en el Mediterráneo",
+      "Su cocina usa mucho el aceite de oliva",
+      "Hay una tomatina que se celebra en agosto"
+    ]
+  },
+  {
+    "palabra": "Francia",
+    "pistas": [
+      "Una torre de hierro es su postal más famosa",
+      "Sus quesos y vinos son célebres",
+      "Allí se celebra una carrera ciclista cada verano",
+      "Tuvo una revolución en 1789",
+      "Su capital es llamada ciudad de la luz",
+      "Un museo con una pirámide de cristal guarda la Mona Lisa",
+      "Su idioma fue lengua de la diplomacia durante siglos",
+      "Tiene un festival de cine en una ciudad de la Riviera",
+      "Su gallo es un símbolo deportivo",
+      "Sus panaderías venden barras largas y crujientes"
+    ]
+  },
+  {
+    "palabra": "Italia",
+    "pistas": [
+      "Tiene forma de bota",
+      "Allí nació la pizza",
+      "Una ciudad de canales y góndolas se hunde lentamente",
+      "Un enorme anfiteatro antiguo está en su capital",
+      "Una torre inclinada es muy visitada",
+      "Un estado diminuto rodeado por su capital es independiente",
+      "Sus volcanes han destruido ciudades antiguas",
+      "La ópera y el helado artesanal son tradición",
+      "Fue cuna del Renacimiento",
+      "Su selección ha ganado cuatro mundiales"
+    ]
+  },
+  {
+    "palabra": "Alemania",
+    "pistas": [
+      "Su capital estuvo dividida por un muro",
+      "Su cerveza se celebra en una famosa fiesta de otoño",
+      "Sus autopistas tienen tramos sin límite de velocidad",
+      "Allí nacieron grandes compositores clásicos",
+      "Sus marcas de automóviles son muy prestigiosas",
+      "Un famoso cuento de hermanos recopiló leyendas de sus bosques",
+      "Su canciller gobernó durante muchos años",
+      "Tiene una Selva Negra",
+      "Las salchichas y el chucrut son comunes",
+      "Fue protagonista de dos guerras mundiales"
+    ]
+  },
+  {
+    "palabra": "Japón",
+    "pistas": [
+      "Es conocido como el país del sol naciente",
+      "Un monte nevado de forma perfecta es su símbolo",
+      "Sus trenes de alta velocidad son puntuales",
+      "Los cerezos florecen cada primavera y la gente los contempla",
+      "Allí nacieron los samuráis",
+      "Es una cadena de islas en el Pacífico",
+      "Su comida incluye pescado crudo sobre arroz",
+      "Los robots y los videojuegos son parte de su industria",
+      "Se practica el arte del té con rituales",
+      "Sufre muchos terremotos"
+    ]
+  },
+  {
+    "palabra": "China",
+    "pistas": [
+      "Tiene la población más numerosa junto a otro gigante asiático",
+      "Una enorme muralla recorre su norte",
+      "Allí nació la pólvora y la brújula",
+      "Sus osos blancos y negros comen bambú",
+      "Su año nuevo se celebra con dragones y faroles",
+      "Sus tradiciones incluyen el uso de palillos",
+      "Tuvo dinastías imperiales durante milenios",
+      "Una ciudad prohibida está en su capital",
+      "Su idioma se escribe con miles de caracteres",
+      "Es el mayor fabricante del mundo"
+    ]
+  },
+  {
+    "palabra": "India",
+    "pistas": [
+      "Su población es una de las mayores del mundo",
+      "Un mausoleo de mármol blanco es su postal",
+      "Su cine produce miles de películas al año",
+      "La vaca es considerada sagrada por muchos",
+      "Un río sagrado atraviesa sus ciudades espirituales",
+      "Su cocina usa mucho curry y especias",
+      "El críquet es casi una religión",
+      "Una fiesta de colores se celebra en primavera",
+      "Fue colonia británica hasta 1947",
+      "El yoga nació allí"
+    ]
+  },
+  {
+    "palabra": "Egipto",
+    "pistas": [
+      "Sus faraones construyeron tumbas gigantes",
+      "Un río largo cruza su desierto",
+      "Una esfinge custodia una meseta",
+      "Escribían con jeroglíficos",
+      "Embalsamaban a sus muertos",
+      "Un famoso joven faraón tenía una máscara de oro",
+      "Alejandría fue una de sus ciudades principales",
+      "Un canal une dos mares en su territorio",
+      "Su capital es la mayor ciudad del mundo árabe",
+      "Los gatos eran animales sagrados en su antigüedad"
+    ]
+  },
+  {
+    "palabra": "Australia",
+    "pistas": [
+      "Es país y continente a la vez",
+      "Los canguros saltan por sus llanuras",
+      "Una gran barrera de coral está en su costa",
+      "Un edificio con forma de velas está en una bahía famosa",
+      "Su territorio es mayormente desierto",
+      "Los koalas viven en sus eucaliptos",
+      "Allí se utiliza el boomerang desde hace milenios",
+      "Su capital no es la ciudad más conocida",
+      "Existen animales muy venenosos en sus campos",
+      "Está en el hemisferio sur y sus estaciones están invertidas"
+    ]
+  },
+  {
+    "palabra": "Canadá",
+    "pistas": [
+      "Su bandera tiene una hoja roja",
+      "El hockey sobre hielo es su deporte estrella",
+      "Se produce jarabe a partir de la savia de un árbol",
+      "Hay dos lenguas oficiales",
+      "Tiene un frío intenso en el norte",
+      "Es el segundo país más grande del mundo",
+      "Comparte con su vecino la mayor frontera terrestre",
+      "Unas cataratas gigantes están en su límite sur",
+      "Allí viven los osos polares y los alces",
+      "Su policía montada es famosa"
+    ]
+  },
+  {
+    "palabra": "Estados Unidos",
+    "pistas": [
+      "Está formado por cincuenta divisiones federadas",
+      "Una dama con antorcha recibe a los barcos en un puerto",
+      "Su cine concentra la industria de Hollywood",
+      "Tiene un presidente elegido cada cuatro años",
+      "El fútbol de allá se juega con las manos",
+      "Alberga la mayor economía del mundo",
+      "Su sede de gobierno se llama Casa Blanca",
+      "Una cadena de hamburguesas nació allí",
+      "Un gran cañón de color rojo está en su suroeste",
+      "Se celebra una fiesta con pavo en noviembre"
+    ]
+  },
+  {
+    "palabra": "Rusia",
+    "pistas": [
+      "Es el país más extenso del planeta",
+      "Su capital tiene una plaza con catedral de cúpulas coloridas",
+      "Un tren cruza su territorio durante días",
+      "Su invierno es extremadamente duro",
+      "Los zares gobernaron durante siglos",
+      "Allí se origina el ballet del Bolshói",
+      "Sus muñecas se guardan unas dentro de otras",
+      "El primer humano en el espacio salió de allí",
+      "Su idioma usa un alfabeto cirílico",
+      "Fue el centro de una unión de repúblicas socialistas"
+    ]
+  },
+  {
+    "palabra": "Reino Unido",
+    "pistas": [
+      "Su monarca tiene una corona",
+      "Una torre con un gran reloj está junto al río de su capital",
+      "Allí se conduce por el lado izquierdo",
+      "Sus bandas de rock cambiaron la música del siglo veinte",
+      "Un famoso detective vivía en la calle Baker",
+      "Tiene cuatro naciones constituyentes",
+      "Se toma té a las cinco de la tarde",
+      "Un palacio de balcón famoso está en su capital",
+      "El fútbol moderno se codificó allí",
+      "Dejó una antigua red de colonias por el mundo"
+    ]
+  },
+  {
+    "palabra": "Portugal",
+    "pistas": [
+      "Es el país más occidental de su península",
+      "Allí nació un famoso navegante que dio la vuelta al mundo",
+      "Su capital tiene tranvías amarillos y colinas",
+      "El bacalao es su plato favorito",
+      "Una música melancólica llamada fado es típica",
+      "Se produce un vino fortificado en el norte",
+      "Sus azulejos decoran fachadas",
+      "Su idioma se habla en América y África",
+      "Fue un imperio marítimo",
+      "Tiene un archipiélago atlántico con Madeira y Azores"
+    ]
+  },
+  {
+    "palabra": "Chile",
+    "pistas": [
+      "Es largo y muy estrecho",
+      "Una cordillera lo separa de su vecino del este",
+      "Tiene el desierto más seco del planeta",
+      "Un enorme sismo lo sacude con frecuencia",
+      "Allí hay una isla con enormes estatuas de piedra",
+      "Su vino carménère es muy conocido",
+      "Su poeta nobel escribía sobre el mar",
+      "Su forma recuerda una cinta entre montañas y océano",
+      "Sus volcanes son numerosos",
+      "Es el mayor productor de cobre del mundo"
+    ]
+  },
+  {
+    "palabra": "Perú",
+    "pistas": [
+      "Una ciudad inca sobre montañas atrae visitantes",
+      "Allí viven llamas y alpacas",
+      "Su gastronomía incluye pescado marinado con limón",
+      "Un lago navegable muy alto lo comparte con otro país",
+      "Unas líneas gigantes dibujan figuras en el desierto",
+      "Su capital está frente al océano Pacífico",
+      "Un imperio andino tuvo allí su centro",
+      "Su papa tiene miles de variedades",
+      "Una infusión de hoja se mastica para la altura",
+      "Una selva amazónica ocupa gran parte de su territorio"
+    ]
+  },
+  {
+    "palabra": "Colombia",
+    "pistas": [
+      "Su café es famoso internacionalmente",
+      "Una ciudad amurallada en el Caribe es patrimonio",
+      "Su música incluye cumbia y vallenato",
+      "Un famoso escritor nobel creó Macondo",
+      "Tiene costas en dos océanos",
+      "Sus esmeraldas son muy valoradas",
+      "Se baila salsa en Cali",
+      "Su capital está a gran altura en los Andes",
+      "Sus flores se exportan por todo el mundo",
+      "La arepa es parte de su mesa"
+    ]
+  },
+  {
+    "palabra": "Paraguay",
+    "pistas": [
+      "No tiene salida al mar",
+      "Un idioma indígena es oficial junto al español",
+      "Allí se bebe el tereré",
+      "Una gran represa comparte energía con su vecino",
+      "Se come sopa que no es líquida",
+      "Su capital está a orillas de un río",
+      "Una cultura jesuítica dejó misiones",
+      "Sus arpas son características",
+      "Su bandera tiene un reverso distinto al anverso",
+      "Hay una importante hidrovía"
+    ]
+  },
+  {
+    "palabra": "Uruguay",
+    "pistas": [
+      "Es uno de los países más pequeños de su continente",
+      "Organizó el primer Mundial de fútbol",
+      "Su gente toma mate a toda hora",
+      "Sus playas tienen una famosa península",
+      "Un presidente conocido por su austeridad vivió en una chacra",
+      "Una gran cantidad de ganado pasta en sus campos",
+      "Su capital está sobre un gran río",
+      "Se baila el candombe",
+      "Su carne asada se hace en parrilla",
+      "Fue pionero en legalizar varias cosas"
+    ]
+  },
+  {
+    "palabra": "Bolivia",
+    "pistas": [
+      "Tiene dos capitales constitucionales",
+      "Posee el mayor salar del mundo",
+      "No tiene mar pero lo reclama",
+      "Su sede de gobierno es la más alta del mundo",
+      "Un lago compartido con Perú es muy alto",
+      "Allí hay cholitas con sombrero bombín",
+      "La hoja de coca es tradicional",
+      "Es plurinacional",
+      "Sus minas de plata fueron famosas",
+      "Un famoso cerro rico domina una ciudad minera"
+    ]
+  },
+  {
+    "palabra": "Ecuador",
+    "pistas": [
+      "Lleva el nombre de una línea imaginaria",
+      "Unas islas con tortugas gigantes inspiraron una teoría",
+      "Su capital es una de las más altas",
+      "Es el mayor exportador de banano",
+      "Su moneda oficial es el dólar",
+      "Un volcán nevado es muy visitado",
+      "Una selva amazónica está en su oriente",
+      "Los sombreros de paja toquilla se llaman con el nombre de otro país",
+      "Está entre dos vecinos andinos",
+      "Tiene un monumento en la mitad del mundo"
+    ]
+  },
+  {
+    "palabra": "Venezuela",
+    "pistas": [
+      "Tiene la cascada más alta del mundo",
+      "Posee grandes reservas de petróleo",
+      "Un libertador nació en su capital",
+      "Su lago más grande es famoso por los relámpagos",
+      "Allí se come la arepa rellena",
+      "Sus concursos de belleza son muy populares",
+      "Tiene una gran zona de tepuyes",
+      "El béisbol es muy popular",
+      "Hay delta de un gran río",
+      "Su bandera tiene ocho estrellas"
+    ]
+  },
+  {
+    "palabra": "Cuba",
+    "pistas": [
+      "Es una isla en el Caribe",
+      "Sus autos americanos antiguos aún circulan",
+      "Un famoso cigarro nace en sus campos",
+      "Su música dio origen al son y al mambo",
+      "Una revolución cambió su gobierno en 1959",
+      "Un malecón famoso bordea su capital",
+      "El ron es una de sus bebidas más conocidas",
+      "Un famoso escritor norteamericano pescaba en sus aguas",
+      "Una bahía en su costa es usada por una base extranjera",
+      "Allí se jugaba mucho al béisbol"
+    ]
+  },
+  {
+    "palabra": "Grecia",
+    "pistas": [
+      "Allí nacieron las olimpiadas",
+      "Un templo en una colina domina su capital",
+      "Muchas islas blancas y azules en el Egeo",
+      "Los filósofos como Sócrates caminaban por sus plazas",
+      "Sus mitos hablan de Zeus y Atenea",
+      "Se prepara un queso blanco con aceitunas",
+      "Su alfabeto dio origen a muchos otros",
+      "Allí nació la democracia",
+      "Una carrera legendaria empezó en una llanura",
+      "Un famoso caballo de madera aparece en su épica"
+    ]
+  },
+  {
+    "palabra": "Turquía",
+    "pistas": [
+      "Está entre dos continentes",
+      "Una ciudad antigua tiene una mezquita azul",
+      "Su café y su té se sirven en vasos pequeños",
+      "Un estrecho separa su parte europea de la asiática",
+      "Un antiguo imperio otomano gobernó desde allí",
+      "Los baños de vapor son tradicionales",
+      "Sus globos aerostáticos vuelan sobre formaciones rocosas",
+      "Un famoso dulce de pistacho es muy popular",
+      "La antigua Troya estuvo en su costa",
+      "Su capital no es la ciudad más grande"
+    ]
+  },
+  {
+    "palabra": "Suiza",
+    "pistas": [
+      "Es famosa por sus relojes",
+      "Sus bancos guardan fortunas",
+      "Tiene montañas alpinas nevadas",
+      "Su chocolate es muy apreciado",
+      "Un queso con agujeros es típico",
+      "No participa en alianzas militares",
+      "Posee cuatro idiomas nacionales",
+      "Su bandera es cuadrada con una cruz",
+      "Una ciudad junto a un lago alberga organismos internacionales",
+      "Hay un famoso pico con forma de pirámide"
+    ]
+  },
+  {
+    "palabra": "Suecia",
+    "pistas": [
+      "Allí se entregan los premios nobel de ciencias",
+      "Una famosa tienda de muebles desmontables nació allí",
+      "Un grupo pop con cuatro integrantes cantaba sobre una reina del baile",
+      "Su monarca ocupa un cargo ceremonial",
+      "Hay mucho sol en verano y casi nada en invierno",
+      "Una cocinera de albóndigas es famosa",
+      "Tiene muchos lagos y bosques",
+      "Una niña activista ambiental comenzó allí",
+      "Su música pop es exportada",
+      "Es nórdico y su capital está en un archipiélago"
+    ]
+  },
+  {
+    "palabra": "Noruega",
+    "pistas": [
+      "Sus fiordos son profundos",
+      "El sol de medianoche brilla en su norte",
+      "Allí se otorga un premio de la paz",
+      "Posee grandes reservas de petróleo en el mar",
+      "Sus esquiadores son campeones",
+      "Fue hogar de los vikingos",
+      "Una pintura famosa muestra a una figura gritando",
+      "Es muy rico pero no pertenece a una unión europea",
+      "El salmón es un producto clave",
+      "Se pueden ver auroras boreales"
+    ]
+  },
+  {
+    "palabra": "Países Bajos",
+    "pistas": [
+      "Mucho de su territorio está bajo el nivel del mar",
+      "Sus tulipanes son mundialmente conocidos",
+      "Allí se anda mucho en bicicleta",
+      "Los molinos de viento adornan sus campos",
+      "Sus quesos tienen forma de rueda",
+      "Un pintor de girasoles nació allí",
+      "Se le suele llamar también por el nombre de una región",
+      "Sus canales atraviesan su capital",
+      "Los zuecos de madera son típicos",
+      "Su selección usa un color naranja"
+    ]
+  },
+  {
+    "palabra": "Corea del Sur",
+    "pistas": [
+      "Su música pop se llama k-pop",
+      "Sus telenovelas triunfan en todo el mundo",
+      "Su capital es Seúl",
+      "Un famoso baile de caballo se volvió viral",
+      "Sus empresas de móviles y televisores son gigantes",
+      "Se come col fermentada picante",
+      "Su vecino del norte es muy cerrado",
+      "Un alfabeto propio fue creado por un rey",
+      "Una película suya ganó el Óscar a mejor película",
+      "Hay una frontera militarizada con su vecino"
+    ]
+  },
+  {
+    "palabra": "Tailandia",
+    "pistas": [
+      "Se le llama la tierra de las sonrisas",
+      "Sus templos tienen budas dorados",
+      "Los elefantes son un símbolo",
+      "Su comida es picante y usa limoncillo",
+      "Un boxeo con codos y rodillas es nacional",
+      "Sus playas de arena blanca atraen turistas",
+      "Su capital tiene un nombre larguísimo",
+      "Su monarquía es muy respetada",
+      "Antes se llamaba Siam",
+      "Sus mercados flotantes son famosos"
+    ]
+  },
+  {
+    "palabra": "Sudáfrica",
+    "pistas": [
+      "Un líder pasó 27 años preso y luego fue presidente",
+      "Tiene tres capitales",
+      "Allí se practicó el apartheid",
+      "Sus safaris muestran a los cinco grandes",
+      "Una famosa montaña plana domina una ciudad portuaria",
+      "Su vino es muy valorado",
+      "Allí se organizó un mundial de fútbol en 2010",
+      "Los diamantes y el oro son recursos",
+      "Su selección de rugby es campeona",
+      "Tiene un cabo en el extremo sur de su continente"
+    ]
+  },
+  {
+    "palabra": "Marruecos",
+    "pistas": [
+      "Su capital se llama Rabat",
+      "Un famoso mercado de laberintos se llama zoco",
+      "Allí el té con menta es símbolo de hospitalidad",
+      "Una ciudad azul en las montañas es muy fotografiada",
+      "Un estrecho lo separa de Europa",
+      "Los camellos cruzan su desierto del Sahara",
+      "Un famoso estilo de sombrero rojo se llama fez",
+      "Una película clásica con un café se ambienta en su ciudad más grande",
+      "Su selección llegó a semifinales de un mundial",
+      "El cuscús se come los viernes"
+    ]
+  },
+  {
+    "palabra": "Nigeria",
+    "pistas": [
+      "Es el país más poblado de su continente",
+      "Su industria de cine es conocida como Nollywood",
+      "Su música afrobeat tiene fama mundial",
+      "Un río principal lleva el mismo nombre",
+      "Exporta mucho petróleo",
+      "Sus águilas verdes juegan al fútbol",
+      "Tiene cientos de grupos étnicos",
+      "Su idioma oficial es el inglés",
+      "Una gran ciudad costera es su motor económico",
+      "Su capital es Abuya"
+    ]
+  },
+  {
+    "palabra": "Kenia",
+    "pistas": [
+      "Allí se corre la mayor migración de ñus",
+      "Sus maratonistas dominan carreras largas",
+      "Un safari famoso se hace en una gran reserva llamada Masái Mara",
+      "Los masáis usan atuendos rojos",
+      "Su café y su té son exportados",
+      "Está en la línea del ecuador",
+      "Un monte nevado en el ecuador está en su frontera",
+      "Su capital es Nairobi",
+      "Un gran valle del Rift lo cruza",
+      "Allí se habla suajili"
+    ]
+  },
+  {
+    "palabra": "Arabia Saudita",
+    "pistas": [
+      "Allí está La Meca",
+      "Su territorio es mayoritariamente desierto",
+      "Es uno de los mayores productores de petróleo",
+      "Su bandera tiene una espada",
+      "Su capital es Riad",
+      "Sus camellos son símbolo",
+      "Posee ciudades sagradas del islam",
+      "Una torre de oro en su capital es muy alta",
+      "Su moneda es el riyal",
+      "Se abrió al cine y a los grandes conciertos en años recientes"
+    ]
+  },
+  {
+    "palabra": "Irlanda",
+    "pistas": [
+      "Es la isla esmeralda",
+      "El trébol es su símbolo",
+      "Un santo patrón es celebrado en marzo",
+      "Un famoso cervecero tiene su fábrica en Dublín",
+      "Allí nacieron escritores como Joyce y Wilde",
+      "Sus duendes verdes son parte del folclore",
+      "Se baila con zapatos duros y brazos quietos",
+      "Una gran hambruna del siglo diecinueve provocó emigración",
+      "Sus paisajes son de verdes campos",
+      "Está dividida entre dos estados"
+    ]
+  },
+  {
+    "palabra": "Polonia",
+    "pistas": [
+      "Su capital es Varsovia",
+      "Un famoso compositor de piano nació allí",
+      "Una científica de dos nobel descubrió el polonio",
+      "Un campo de la memoria de la Segunda Guerra está en su sur",
+      "Los pierogi son comida típica",
+      "Su bandera es blanca y roja",
+      "Una mina de sal tiene capillas",
+      "Un papa de su nacionalidad llegó a Roma",
+      "Tiene un sindicato famoso llamado Solidaridad",
+      "Su idioma es eslavo"
+    ]
+  },
+  {
+    "palabra": "Croacia",
+    "pistas": [
+      "Su costa del Adriático tiene miles de islas",
+      "Una ciudad medieval amurallada se usó en una serie de dragones",
+      "Su selección fue subcampeona del mundo en 2018",
+      "Allí se inventó la corbata",
+      "Sus parques de lagos y cascadas son turquesas",
+      "Su capital es Zagreb",
+      "Un famoso palacio romano está en una ciudad costera",
+      "Un perro de manchas nació allí",
+      "Usa el euro desde hace poco",
+      "Su moneda antigua era la kuna"
+    ]
+  },
+  {
+    "palabra": "Nueva Zelanda",
+    "pistas": [
+      "Sus paisajes inspiraron una trilogía de anillos",
+      "Un famoso pájaro sin alas vuela poco",
+      "Los maoríes bailan una famosa danza antes de los partidos",
+      "Su selección de rugby es llamada All Blacks",
+      "Tiene muchas más ovejas que personas",
+      "Es famosa por sus fiordos y glaciares",
+      "Su capital es Wellington",
+      "Una fruta verde peluda lleva el nombre de su ave",
+      "Es el hogar de actividades extremas como el puenting",
+      "Está en el hemisferio sur"
+    ]
+  },
+  {
+    "palabra": "Islandia",
+    "pistas": [
+      "Posee volcanes y géiseres",
+      "Su nombre sugiere hielo",
+      "Las auroras boreales se ven en invierno",
+      "Un famoso volcán de nombre impronunciable paralizó vuelos",
+      "Sus aguas termales son turísticas",
+      "Casi toda su energía es renovable",
+      "Su capital es la más septentrional del mundo",
+      "No tiene ejército",
+      "Su parlamento es de los más antiguos",
+      "Sus hombres usaban apellidos con terminación -son"
+    ]
+  },
+  {
+    "palabra": "Vietnam",
+    "pistas": [
+      "Su capital es Hanói",
+      "Una sopa de fideos con carne es su plato nacional",
+      "Una larga guerra con una potencia occidental terminó en 1975",
+      "Sus sombreros cónicos protegen del sol",
+      "Una bahía con miles de islotes de piedra caliza es famosa",
+      "Sus motos llenan las calles",
+      "Su café con huevo es famoso",
+      "Los arrozales en terrazas son típicos",
+      "Un río grande tiene un delta fértil",
+      "Su bandera es roja con estrella amarilla"
+    ]
+  },
+  {
+    "palabra": "Indonesia",
+    "pistas": [
+      "Tiene más de diecisiete mil islas",
+      "Es el país con más musulmanes",
+      "Un dragón gigante vive en una de sus islas",
+      "Una isla famosa de templos hindúes atrae turistas",
+      "Su capital se va a trasladar por hundirse",
+      "Sus volcanes son muy activos",
+      "Sus orangutanes viven en selvas",
+      "Un tsunami devastó su costa en 2004",
+      "Allí se cultiva mucho aceite de palma",
+      "Se baila con sombras en un teatro de marionetas"
+    ]
+  },
+  {
+    "palabra": "Filipinas",
+    "pistas": [
+      "Está formado por más de siete mil islas",
+      "Su idioma debe mucho al español",
+      "Fue colonia española durante más de tres siglos",
+      "Allí se canta mucho el karaoke",
+      "Un campeón de boxeo se convirtió en senador",
+      "Los tifones lo azotan con frecuencia",
+      "El baloncesto es muy popular",
+      "Su capital es Manila",
+      "Un famoso explorador murió allí al servicio de la corona española",
+      "Sus playas de Palawan son muy visitadas"
+    ]
+  },
+  {
+    "palabra": "Panamá",
+    "pistas": [
+      "Un canal une dos océanos",
+      "Su moneda es el dólar y el balboa",
+      "Su capital tiene rascacielos frente al mar",
+      "Un sombrero famoso lleva su nombre aunque se hace en otro país",
+      "Su territorio es un istmo",
+      "Se firmaron papeles que causaron un escándalo mundial",
+      "Una gran selva une dos continentes",
+      "Los indígenas guna usan telas coloridas llamadas molas",
+      "Fue parte de un país vecino hasta 1903",
+      "Su café geisha es costoso"
+    ]
+  },
+  {
+    "palabra": "Costa Rica",
+    "pistas": [
+      "Su ejército fue abolido",
+      "La frase \"pura vida\" es su saludo",
+      "Un tercio de su territorio es área protegida",
+      "Sus volcanes y bosques nubosos son turísticos",
+      "Su café es famoso",
+      "Una gran biodiversidad atrae ecoturistas",
+      "Los perezosos viven en sus árboles",
+      "Sus playas están en dos océanos",
+      "Su capital es San José",
+      "Sus habitantes usan mucho el diminutivo terminado en -ico"
+    ]
+  },
+  {
+    "palabra": "Jamaica",
+    "pistas": [
+      "Su música dio origen al reggae",
+      "Un famoso cantante de rastas nació allí",
+      "El hombre más rápido del mundo en los cien metros es de allí",
+      "Su bandera tiene una cruz amarilla",
+      "Una isla del Caribe con montañas azules",
+      "Su café más caro nace en las Blue Mountains",
+      "El pollo con especias picantes se llama jerk",
+      "Su capital es Kingston",
+      "El trineo con cuatro atletas tropicales inspiró una película",
+      "Tiene playas de arena blanca"
+    ]
+  }
+]
