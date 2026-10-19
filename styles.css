@@ -100,6 +100,9 @@ html, body {
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  /* Centra si cabe; si el contenido es más alto que la pantalla, se puede
+     desplazar desde arriba (necesario para la sala con muchos jugadores). */
+  margin-block: auto;
 }
 
 /* ════════════════ COMPONENTES DE INTERFAZ ════════════════ */
@@ -220,3 +223,76 @@ html, body {
 .starter { text-align: center; font-family: var(--f-mono); font-size: 13px; color: var(--c-neon); background: var(--c-bg2); border: 1px solid var(--c-border); border-radius: var(--r); padding: 10px 14px; margin-bottom: 16px; }
 .starter:empty { display: none; }
 .wc-word { overflow-wrap: anywhere; }
+
+/* ═══════════════════════════════════════════════════════════
+   MULTIJUGADOR ONLINE (añadido)
+   ═══════════════════════════════════════════════════════════ */
+
+/* El atributo hidden debe ganar a display:flex de .btn */
+[hidden] { display: none !important; }
+
+/* Campos de texto: user-select:none de html/body impide escribir en iPhone/Safari */
+input, textarea {
+  -webkit-user-select: text;
+  user-select: text;
+}
+
+.text-input {
+  width: 100%;
+  padding: 14px 16px;
+  font-family: var(--f-display);
+  font-size: 16px; /* 16px evita el zoom automático de iOS al enfocar */
+  color: var(--c-white);
+  background: var(--c-bg2);
+  border: 1.5px solid var(--c-border);
+  border-radius: var(--r);
+  outline: none;
+  transition: border-color .2s, box-shadow .2s;
+}
+.text-input::placeholder { color: var(--c-muted); }
+.text-input:focus { border-color: var(--c-neon); box-shadow: var(--glow-neon); }
+
+.code-input {
+  text-align: center;
+  font-family: var(--f-mono);
+  font-size: 24px;
+  letter-spacing: .35em;
+  text-indent: .35em; /* compensa el letter-spacing para centrar */
+  text-transform: uppercase;
+}
+
+/* Código de sala destacado */
+.room-code {
+  font-family: var(--f-mono);
+  font-weight: 700;
+  font-size: 52px;
+  letter-spacing: .3em;
+  text-indent: .3em;
+  line-height: 1.1;
+  color: var(--c-neon);
+  text-shadow: var(--glow-neon);
+  margin: 6px 0 16px;
+}
+
+/* Lista de jugadores */
+.player-list { list-style: none; display: grid; gap: 6px; }
+.player-list li {
+  padding: 10px 14px;
+  background: var(--c-bg2);
+  border: 1px solid var(--c-border);
+  border-radius: var(--r);
+  font-size: 14px;
+  overflow-wrap: anywhere;
+}
+
+.lobby-wait {
+  text-align: center;
+  font-family: var(--f-mono);
+  font-size: 12px;
+  color: var(--c-muted);
+  margin: 4px 0 14px;
+}
+
+/* Botón bloqueado (no es tu turno / faltan jugadores) */
+.btn:disabled { opacity: .45; cursor: not-allowed; box-shadow: none; filter: grayscale(.5); }
+.btn:disabled:active { transform: none; }

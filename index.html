@@ -24,27 +24,55 @@
 
   <div id="app">
 
-    <!-- PANTALLA 1: CONFIGURACIÓN -->
-    <section id="screen-config" class="screen active">
+    <!-- PANTALLA 0 (NUEVA): CREAR O UNIRSE A SALA -->
+    <section id="screen-join" class="screen active">
       <div class="screen-inner">
         <div class="logo">
           <span class="logo-eye">👁️</span>
           <div class="logo-title">IMPOSTOR</div>
-          <div class="logo-sub">Juego de deducción y engaño</div>
+          <div class="logo-sub">Juego de deducción y engaño · Online</div>
         </div>
 
         <div class="card">
           <div class="field-block">
-            <div class="f-label">Jugadores</div>
-            <div class="stepper">
-              <button class="step-btn" onclick="adj('p', -1)">−</button>
-              <div class="step-sep"></div>
-              <div class="step-val" id="vp">4</div>
-              <div class="step-sep"></div>
-              <button class="step-btn" onclick="adj('p', 1)">+</button>
-            </div>
+            <div class="f-label">Tu nombre</div>
+            <input id="in-nombre" class="text-input" type="text" maxlength="16"
+                   placeholder="Ej: Ever" autocomplete="nickname" />
           </div>
+          <div class="field-block" style="margin-bottom:0">
+            <div class="f-label">Código de sala</div>
+            <input id="in-codigo" class="text-input code-input" type="text" maxlength="4"
+                   placeholder="ABCD" autocomplete="off" autocapitalize="characters" />
+          </div>
+        </div>
 
+        <button class="btn btn-primary" onclick="crearSala()">
+          <span>＋</span> Crear sala
+        </button>
+        <button class="btn btn-ghost" onclick="unirseSala()">
+          → &nbsp;Unirse con código
+        </button>
+      </div>
+    </section>
+
+    <!-- PANTALLA 1 (NUEVA): SALA DE ESPERA / CONFIGURACIÓN DEL HOST -->
+    <section id="screen-lobby" class="screen">
+      <div class="screen-inner">
+        <div class="card" style="text-align:center">
+          <div class="f-label">Código de sala</div>
+          <div class="room-code" id="room-code">----</div>
+          <button class="btn btn-ghost" onclick="copiarEnlace()">
+            🔗 &nbsp;Copiar enlace de invitación
+          </button>
+        </div>
+
+        <div class="card">
+          <div class="f-label">Jugadores en la sala · <span id="lobby-count">1</span></div>
+          <ul id="player-list" class="player-list"></ul>
+        </div>
+
+        <!-- Solo lo ve el host -->
+        <div class="card" id="host-config" hidden>
           <div class="field-block">
             <div class="f-label">Impostores</div>
             <div class="stepper">
@@ -83,9 +111,11 @@
           </div>
         </div>
 
-        <button class="btn btn-primary" onclick="startGame()">
+        <p id="lobby-wait" class="lobby-wait">Esperando a que el host inicie la partida…</p>
+        <button class="btn btn-primary" id="btn-start" onclick="startGame()" hidden>
           <span>▶</span> Comenzar
         </button>
+        <button class="btn btn-ghost" onclick="salirSala()">✕ &nbsp;Salir de la sala</button>
       </div>
     </section>
 
@@ -105,9 +135,9 @@
 
           <div class="turn-label">Jugador</div>
           <div class="turn-num" id="tnum">1</div>
-          <div class="turn-instruction" id="tinstr">Toma el dispositivo sin que los demás vean</div>
+          <div class="turn-instruction" id="tinstr">Esperando…</div>
 
-          <button class="btn btn-reveal" onclick="showReveal()">
+          <button class="btn btn-reveal" id="btn-reveal" onclick="showReveal()" disabled>
             🔍 &nbsp;Revelar palabra
           </button>
         </div>
@@ -159,12 +189,14 @@
           </div>
         </div>
 
-        <button class="btn btn-round" onclick="nextRound()">
+        <!-- Solo el host puede iniciar la siguiente ronda -->
+        <button class="btn btn-round" id="btn-again" onclick="nextRound()" hidden>
           🔄 &nbsp;Jugar otra ronda
         </button>
-        <button class="btn btn-ghost" onclick="goHome()">
-          ✕ &nbsp;Configuración
+        <button class="btn btn-ghost" id="btn-home" onclick="goHome()" hidden>
+          ⚙ &nbsp;Configuración
         </button>
+        <p id="done-wait" class="lobby-wait" hidden>Esperando al host…</p>
       </div>
     </section>
 
@@ -172,6 +204,8 @@
 
   <div id="toast">Notificación</div>
 
+  <!-- Cliente de Socket.io (debe ir ANTES de script.js) -->
+  <script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
