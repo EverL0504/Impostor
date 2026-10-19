@@ -23,7 +23,6 @@ const Screens = {
       const on = s.id === this.current;
       s.classList.toggle('active', on);
       s.inert = !on;
-      s.setAttribute('aria-hidden', String(!on));
     });
   },
 
@@ -32,13 +31,12 @@ const Screens = {
     const from = $(this.current), to = $(toId);
     if (!to) return false;
     this.busy = true;
+    if (document.activeElement) document.activeElement.blur();
     from.classList.remove('active');
     from.inert = true;
-    from.setAttribute('aria-hidden', 'true');
     setTimeout(() => {
       if (beforeShow) beforeShow();
       to.inert = false;
-      to.setAttribute('aria-hidden', 'false');
       to.scrollTop = 0;
       to.classList.add('active');
       this.current = toId;
